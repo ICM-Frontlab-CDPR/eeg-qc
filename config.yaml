@@ -1,30 +1,37 @@
+check-type: raw-qc  # metrics to extract — applies to all derivatives
+
+comparaison-type:  #extra-deriv
+  intra-deriv: 
+  extra-deriv:
+
 derivatives:
   - name: raw-hemianotacs
     path: /Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids
     bids: yes
-    check-type: raw-qc
 
   - name: mbp-hemianotacs
     path: /Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline
     bids: yes
-    check-type: raw-qc
+    proc: filt  # proc-filt_raw.fif → filtered raw, last step before ICA
 
-  - name: RSeeg-hemianotacs
-    path: /Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/rs-eeg
-    bids: no
-    check-type: raw-qc
 
   - name: raw-clonesatacs
     path: /Volumes/levy/raw/valerocabre/clonesa/Data/clonesatACS/derivatives/bids
     bids: yes
-    check-type: raw-qc
 
   - name: mbp-clonesatacs
     path: /Volumes/levy/raw/valerocabre/clonesa/Data/clonesatACS/derivatives/mne-bids-pipeline
     bids: yes
-    check-type: raw-qc
+    proc: filt  # proc-filt_raw.fif → filtered raw, last step before ICA
 
-  - name: RSeeg-clonesatacs
-    path: /Volumes/levy/raw/valerocabre/clonesa/Data/clonesatACS/derivatives/rs-eeg
-    bids: no
-    check-type: raw-qc
+
+
+  # - name: RSeeg-clonesatacs
+  #   path: /Volumes/levy/raw/valerocabre/clonesa/Data/clonesatACS/derivatives/rs-eeg
+  #   bids: no
+  #   check-type: raw-qc
+
+    # - name: RSeeg-hemianotacs
+    # path: /Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/rs-eeg
+    # bids: no
+    # check-type: raw-qc
