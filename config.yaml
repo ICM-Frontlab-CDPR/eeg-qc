@@ -1,0 +1,5 @@
+
+derivatives:
+  path:
+  bids: yes
+  check-type: raw-qc
