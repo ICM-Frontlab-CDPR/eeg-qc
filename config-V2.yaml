@@ -2,7 +2,11 @@ derivatives:
   - name: raw-hemianotacs
     path: /Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids
     bids: yes
-    check-type: raw-qc
+    check-type: raw-qc # group an array of metrics
+    datatype:
+      differentiate-constructors: yes
+      differentiate-chnumber: ...
+    
 
   - name: mbp-hemianotacs
     path: /Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline
