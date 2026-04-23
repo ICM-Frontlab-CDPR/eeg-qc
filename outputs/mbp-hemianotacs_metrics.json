@@ -1,0 +1,2522 @@
+{
+  "sub-0001_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0001/ses-01/eeg/sub-0001_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.00018860751032127897,
+    "signal_quality": {
+      "rms": 1.3547091152246937e-05,
+      "rms_per_channel_mean": 1.121152197549742e-05,
+      "rms_per_channel_std": 7.604304943926541e-06,
+      "mean": -9.261144340626639e-09,
+      "std": 1.3547087986666829e-05,
+      "kurtosis": 144.65971968701078
+    },
+    "psd": {
+      "delta": 0.06827854707681029,
+      "theta": 0.015672854411940888,
+      "alpha": 0.019024131467640547,
+      "beta": 0.002910289939212966,
+      "gamma": 0.0027559948553569176
+    },
+    "snr": 1059060393.3764051
+  },
+  "sub-0001_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0001/ses-01/eeg/sub-0001_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.00022380236660405765,
+    "signal_quality": {
+      "rms": 2.3068353128707848e-05,
+      "rms_per_channel_mean": 1.6555948443311247e-05,
+      "rms_per_channel_std": 1.6063918800005966e-05,
+      "mean": -1.0795291971647576e-08,
+      "std": 2.306835060277255e-05,
+      "kurtosis": 231.05270872024502
+    },
+    "psd": {
+      "delta": 0.2946226971108186,
+      "theta": 0.03108911503661599,
+      "alpha": 0.0079545320071754,
+      "beta": 0.004969577231180338,
+      "gamma": 0.005336339254562299
+    },
+    "snr": 1424670125.7705057
+  },
+  "sub-0001_ses-01_task-vep_acq-cinetique_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0001/ses-01/eeg/sub-0001_ses-01_task-vep_acq-cinetique_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.022485975033558606,
+    "signal_quality": {
+      "rms": 2.682163671137268e-05,
+      "rms_per_channel_mean": 1.9159873612353503e-05,
+      "rms_per_channel_std": 1.8769641420003065e-05,
+      "mean": 5.503240484944389e-10,
+      "std": 2.6821636705726933e-05,
+      "kurtosis": 557.223998074195
+    },
+    "psd": {
+      "delta": 0.9027792338449322,
+      "theta": 0.11514800646150504,
+      "alpha": 0.02568695954622023,
+      "beta": 0.01892898195800339,
+      "gamma": 0.022390885825449836
+    },
+    "snr": 1863939468.5146658
+  },
+  "sub-0002_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0002/ses-01/eeg/sub-0002_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.0010672378457412474,
+    "signal_quality": {
+      "rms": 1.6299612577716187e-05,
+      "rms_per_channel_mean": 1.502021472013797e-05,
+      "rms_per_channel_std": 6.3301279564156e-06,
+      "mean": -1.482503890650759e-08,
+      "std": 1.62996058357822e-05,
+      "kurtosis": 31.019841535280584
+    },
+    "psd": {
+      "delta": 0.04866727290611602,
+      "theta": 0.026111010278698273,
+      "alpha": 0.09601828375903618,
+      "beta": 0.00831595874235492,
+      "gamma": 0.004604721570932325
+    },
+    "snr": 1681051744.0313728
+  },
+  "sub-0002_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0002/ses-01/eeg/sub-0002_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.0002385231264128755,
+    "signal_quality": {
+      "rms": 2.1736402449723046e-05,
+      "rms_per_channel_mean": 1.9249863114237723e-05,
+      "rms_per_channel_std": 1.0095244501221153e-05,
+      "mean": -1.510988373352578e-08,
+      "std": 2.1736397197965894e-05,
+      "kurtosis": 126.37033236333869
+    },
+    "psd": {
+      "delta": 0.17371148978977452,
+      "theta": 0.028317050086043506,
+      "alpha": 0.039600821616085004,
+      "beta": 0.012020343629843996,
+      "gamma": 0.01357279528725588
+    },
+    "snr": 1436539931.5353637
+  },
+  "sub-0004_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0004/ses-01/eeg/sub-0004_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.0030493557717958582,
+    "signal_quality": {
+      "rms": 1.2944586660050368e-05,
+      "rms_per_channel_mean": 1.181203383466102e-05,
+      "rms_per_channel_std": 5.295109110148457e-06,
+      "mean": -2.1642972809608264e-08,
+      "std": 1.2944568566826856e-05,
+      "kurtosis": 2.1987977200644764
+    },
+    "psd": {
+      "delta": 0.028613896054319386,
+      "theta": 0.017023479139540238,
+      "alpha": 0.06881115666819303,
+      "beta": 0.004430576395891294,
+      "gamma": 0.0017838940444988706
+    },
+    "snr": 776227596.5489004
+  },
+  "sub-0004_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0004/ses-01/eeg/sub-0004_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.000834879457531106,
+    "signal_quality": {
+      "rms": 1.1594851402139606e-05,
+      "rms_per_channel_mean": 1.0471673324251598e-05,
+      "rms_per_channel_std": 4.978417100631108e-06,
+      "mean": 1.3706911661929512e-08,
+      "std": 1.1594843300289638e-05,
+      "kurtosis": 31.26750477646393
+    },
+    "psd": {
+      "delta": 0.07282522555912999,
+      "theta": 0.016404797280256213,
+      "alpha": 0.010501735045620407,
+      "beta": 0.003824948363942408,
+      "gamma": 0.002210548826684246
+    },
+    "snr": 356571060.9777826
+  },
+  "sub-0005_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0005/ses-01/eeg/sub-0005_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.0009006687778881391,
+    "signal_quality": {
+      "rms": 1.0361529117043809e-05,
+      "rms_per_channel_mean": 9.959708770308104e-06,
+      "rms_per_channel_std": 2.8575316015740752e-06,
+      "mean": -5.250855230605373e-09,
+      "std": 1.0361527786570183e-05,
+      "kurtosis": 5.343704351974859
+    },
+    "psd": {
+      "delta": 0.038194014642389584,
+      "theta": 0.02013839682508546,
+      "alpha": 0.020766865650636422,
+      "beta": 0.00321333406604886,
+      "gamma": 0.0009397082548718785
+    },
+    "snr": 1404235787.2229166
+  },
+  "sub-0005_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0005/ses-01/eeg/sub-0005_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.008173702350294394,
+    "signal_quality": {
+      "rms": 8.7501819608597e-06,
+      "rms_per_channel_mean": 8.392865121365645e-06,
+      "rms_per_channel_std": 2.4749746266817655e-06,
+      "mean": 5.572040488361983e-09,
+      "std": 8.750180186745832e-06,
+      "kurtosis": 29.468131193301957
+    },
+    "psd": {
+      "delta": 0.02817997698917322,
+      "theta": 0.0073248999593567,
+      "alpha": 0.015543673130961104,
+      "beta": 0.0024361820684467386,
+      "gamma": 0.0009576539970987173
+    },
+    "snr": 377733222.8757108
+  },
+  "sub-0007_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0007/ses-01/eeg/sub-0007_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.0060693243273687155,
+    "signal_quality": {
+      "rms": 1.184762968338562e-05,
+      "rms_per_channel_mean": 8.971547980887272e-06,
+      "rms_per_channel_std": 7.738065387503364e-06,
+      "mean": 3.0325677366346044e-09,
+      "std": 1.1847629295271395e-05,
+      "kurtosis": 2005.1339085200402
+    },
+    "psd": {
+      "delta": 0.04504756231844164,
+      "theta": 0.005997551042247733,
+      "alpha": 0.006216178622860333,
+      "beta": 0.0017746444755845025,
+      "gamma": 0.0006868903505271224
+    },
+    "snr": 437097251.1310472
+  },
+  "sub-0008_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0008/ses-01/eeg/sub-0008_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.016793273627948378,
+    "signal_quality": {
+      "rms": 7.288685160308444e-06,
+      "rms_per_channel_mean": 6.841348557130052e-06,
+      "rms_per_channel_std": 2.514136290250609e-06,
+      "mean": 5.229847104935624e-09,
+      "std": 7.288683284023239e-06,
+      "kurtosis": 2.2419590744825193
+    },
+    "psd": {
+      "delta": 0.018656382601719496,
+      "theta": 0.00965853411591665,
+      "alpha": 0.008192880883081396,
+      "beta": 0.0016773515293857645,
+      "gamma": 0.0006333430871001743
+    },
+    "snr": 123115981.18148789
+  },
+  "sub-0008_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0008/ses-01/eeg/sub-0008_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.004036091828370242,
+    "signal_quality": {
+      "rms": 7.5157766880761985e-06,
+      "rms_per_channel_mean": 7.022053058014345e-06,
+      "rms_per_channel_std": 2.6791174060613723e-06,
+      "mean": 4.081236217596007e-09,
+      "std": 7.51577557997447e-06,
+      "kurtosis": 5.335179293365487
+    },
+    "psd": {
+      "delta": 0.01972937272913063,
+      "theta": 0.007313369127400874,
+      "alpha": 0.005023961731437022,
+      "beta": 0.0016972758970339892,
+      "gamma": 0.0009991792850560116
+    },
+    "snr": 338015692.33656883
+  },
+  "sub-0009_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0009/ses-01/eeg/sub-0009_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.006312172620581763,
+    "signal_quality": {
+      "rms": 1.0473106153634817e-05,
+      "rms_per_channel_mean": 9.651490926849082e-06,
+      "rms_per_channel_std": 4.06628520817875e-06,
+      "mean": -1.1003639011272827e-08,
+      "std": 1.047310037310977e-05,
+      "kurtosis": 12.12321499039791
+    },
+    "psd": {
+      "delta": 0.034447342028581254,
+      "theta": 0.014067209074193466,
+      "alpha": 0.016016459476725173,
+      "beta": 0.00331076296279111,
+      "gamma": 0.0015864412618081247
+    },
+    "snr": 33822721.52910853
+  },
+  "sub-0009_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0009/ses-01/eeg/sub-0009_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.0001225585841975789,
+    "signal_quality": {
+      "rms": 1.820057727805677e-05,
+      "rms_per_channel_mean": 1.5937550911292625e-05,
+      "rms_per_channel_std": 8.789509895578481e-06,
+      "mean": -7.985721257472471e-09,
+      "std": 1.8200575526141266e-05,
+      "kurtosis": 11.668340075476493
+    },
+    "psd": {
+      "delta": 0.2454852112214121,
+      "theta": 0.04426548417241995,
+      "alpha": 0.012671924792334647,
+      "beta": 0.004115128537287418,
+      "gamma": 0.003093566806529752
+    },
+    "snr": 2181127299.1729016
+  },
+  "sub-0011_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0011/ses-01/eeg/sub-0011_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.04514989433642731,
+    "signal_quality": {
+      "rms": 5.336860759090545e-06,
+      "rms_per_channel_mean": 4.996648839155062e-06,
+      "rms_per_channel_std": 1.8749888373243405e-06,
+      "mean": 5.4751562662331296e-09,
+      "std": 5.336857950572075e-06,
+      "kurtosis": 9.720318278789621
+    },
+    "psd": {
+      "delta": 0.011210627790371392,
+      "theta": 0.0019816081609134776,
+      "alpha": 0.0023913933307236723,
+      "beta": 0.0011803348618061177,
+      "gamma": 0.0003443690550837594
+    },
+    "snr": 455831931.6416018
+  },
+  "sub-0014_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0014/ses-01/eeg/sub-0014_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.023920205966329735,
+    "signal_quality": {
+      "rms": 9.541936810502438e-06,
+      "rms_per_channel_mean": 9.120132787220172e-06,
+      "rms_per_channel_std": 2.805661426311644e-06,
+      "mean": 2.13569963057177e-09,
+      "std": 9.541936571493678e-06,
+      "kurtosis": 8.658510152142346
+    },
+    "psd": {
+      "delta": 0.04513693525643999,
+      "theta": 0.009509914148204337,
+      "alpha": 0.003489832088354783,
+      "beta": 0.0021820559860148444,
+      "gamma": 0.0008658512379606549
+    },
+    "snr": 302644609.95601994
+  },
+  "sub-0014_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0014/ses-01/eeg/sub-0014_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.0002714691750599636,
+    "signal_quality": {
+      "rms": 1.4823630381002493e-05,
+      "rms_per_channel_mean": 1.2432957585190276e-05,
+      "rms_per_channel_std": 8.072272502674803e-06,
+      "mean": 2.9790089384552438e-09,
+      "std": 1.4823630081666428e-05,
+      "kurtosis": 305.5792062141407
+    },
+    "psd": {
+      "delta": 0.13242581062752287,
+      "theta": 0.016469304852682505,
+      "alpha": 0.004179310745534078,
+      "beta": 0.0027410227212059097,
+      "gamma": 0.001648883705343512
+    },
+    "snr": 871855554.3130249
+  },
+  "sub-0015_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0015/ses-01/eeg/sub-0015_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.0006422118486379181,
+    "signal_quality": {
+      "rms": 9.456054877863793e-06,
+      "rms_per_channel_mean": 9.010553195617027e-06,
+      "rms_per_channel_std": 2.8682581756402965e-06,
+      "mean": 6.093964406787498e-10,
+      "std": 9.456054858227484e-06,
+      "kurtosis": 3.8625145156735003
+    },
+    "psd": {
+      "delta": 0.031247852136529888,
+      "theta": 0.011459964544077142,
+      "alpha": 0.021068552909881442,
+      "beta": 0.003274737859977227,
+      "gamma": 0.0006413885828162743
+    },
+    "snr": 657920647.7961357
+  },
+  "sub-0015_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0015/ses-01/eeg/sub-0015_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.0038771005220131728,
+    "signal_quality": {
+      "rms": 8.02847308048612e-06,
+      "rms_per_channel_mean": 7.678786823081032e-06,
+      "rms_per_channel_std": 2.343632422067804e-06,
+      "mean": -1.2271209184620148e-08,
+      "std": 8.028463702447401e-06,
+      "kurtosis": 2.4901603078667645
+    },
+    "psd": {
+      "delta": 0.021988298165683262,
+      "theta": 0.010000589019541385,
+      "alpha": 0.010108054953971924,
+      "beta": 0.0032974348515595383,
+      "gamma": 0.0010945670984080376
+    },
+    "snr": 246162078.9556514
+  },
+  "sub-0016_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0016/ses-01/eeg/sub-0016_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.0048535588411204285,
+    "signal_quality": {
+      "rms": 1.1599753676297766e-05,
+      "rms_per_channel_mean": 1.1067440301744645e-05,
+      "rms_per_channel_std": 3.473622103525648e-06,
+      "mean": 1.6161474610579259e-09,
+      "std": 1.1599753563712073e-05,
+      "kurtosis": 2.5405006065287923
+    },
+    "psd": {
+      "delta": 0.031903194431882886,
+      "theta": 0.03167599246451984,
+      "alpha": 0.030016643080784156,
+      "beta": 0.0053060640285181385,
+      "gamma": 0.0006889042012370757
+    },
+    "snr": 109193544.28244515
+  },
+  "sub-0016_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0016/ses-01/eeg/sub-0016_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.5123977092302207,
+    "signal_quality": {
+      "rms": 1.0956382874578682e-05,
+      "rms_per_channel_mean": 1.034212724211837e-05,
+      "rms_per_channel_std": 3.61700564033208e-06,
+      "mean": -1.0342948377461928e-08,
+      "std": 1.0956377992647929e-05,
+      "kurtosis": 4.334097963772054
+    },
+    "psd": {
+      "delta": 0.03360427830235414,
+      "theta": 0.020201226884562076,
+      "alpha": 0.020217462116627272,
+      "beta": 0.006864343370506362,
+      "gamma": 0.0021215885404100823
+    },
+    "snr": 991181651.1623784
+  },
+  "sub-0018_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0018/ses-01/eeg/sub-0018_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.0019951686400549026,
+    "signal_quality": {
+      "rms": 8.610261809424416e-06,
+      "rms_per_channel_mean": 8.372464506265873e-06,
+      "rms_per_channel_std": 2.0095886440141837e-06,
+      "mean": -1.895193356750483e-09,
+      "std": 8.610261600850161e-06,
+      "kurtosis": 3.029285277286715
+    },
+    "psd": {
+      "delta": 0.03855663977679313,
+      "theta": 0.010104556483689103,
+      "alpha": 0.008185800964182524,
+      "beta": 0.0035152707947791175,
+      "gamma": 0.0007051706582936778
+    },
+    "snr": 490085785.68456054
+  },
+  "sub-0018_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0018/ses-01/eeg/sub-0018_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.00013246644736137437,
+    "signal_quality": {
+      "rms": 9.514297821972081e-06,
+      "rms_per_channel_mean": 8.811024499478117e-06,
+      "rms_per_channel_std": 3.5899457258820856e-06,
+      "mean": -4.409930020263003e-09,
+      "std": 9.514296799958467e-06,
+      "kurtosis": 13.228624796277614
+    },
+    "psd": {
+      "delta": 0.08105463280023226,
+      "theta": 0.010855701974811477,
+      "alpha": 0.006241276667508493,
+      "beta": 0.0031776557155805837,
+      "gamma": 0.0009481241171627645
+    },
+    "snr": 2945247263.9779143
+  },
+  "sub-0019_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0019/ses-01/eeg/sub-0019_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.06896605536254732,
+    "signal_quality": {
+      "rms": 1.1991394551421161e-05,
+      "rms_per_channel_mean": 1.1610168628636354e-05,
+      "rms_per_channel_std": 2.9995879221121947e-06,
+      "mean": 1.1692698768140522e-08,
+      "std": 1.1991388850698181e-05,
+      "kurtosis": 7.038854112131462
+    },
+    "psd": {
+      "delta": 0.023769124058621496,
+      "theta": 0.01574198913767242,
+      "alpha": 0.036734607738570214,
+      "beta": 0.009444548523508942,
+      "gamma": 0.002386770094616564
+    },
+    "snr": 152427534.7558919
+  },
+  "sub-0019_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0019/ses-01/eeg/sub-0019_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.014013128305380722,
+    "signal_quality": {
+      "rms": 9.794824505995753e-06,
+      "rms_per_channel_mean": 9.486846972006253e-06,
+      "rms_per_channel_std": 2.436867175902445e-06,
+      "mean": 7.72883339063011e-09,
+      "std": 9.794821456687682e-06,
+      "kurtosis": 3.185271077199257
+    },
+    "psd": {
+      "delta": 0.01785009812368562,
+      "theta": 0.008062136447883976,
+      "alpha": 0.018644545946812637,
+      "beta": 0.007656866453168931,
+      "gamma": 0.0019487061323107228
+    },
+    "snr": 181109969.12886626
+  },
+  "sub-0020_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0020/ses-01/eeg/sub-0020_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.01540392078412645,
+    "signal_quality": {
+      "rms": 1.5529637342504094e-05,
+      "rms_per_channel_mean": 1.2873485493426464e-05,
+      "rms_per_channel_std": 8.68579341454976e-06,
+      "mean": 2.9807211860048027e-08,
+      "std": 1.5529608736855502e-05,
+      "kurtosis": 1190.6234851034462
+    },
+    "psd": {
+      "delta": 0.0752316037908589,
+      "theta": 0.009842332869478474,
+      "alpha": 0.016773774283042775,
+      "beta": 0.005873059893220931,
+      "gamma": 0.0024112289542360436
+    },
+    "snr": 6410760.352881065
+  },
+  "sub-0020_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0020/ses-01/eeg/sub-0020_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.002343840428494567,
+    "signal_quality": {
+      "rms": 6.2709505451398615e-06,
+      "rms_per_channel_mean": 5.983170456191058e-06,
+      "rms_per_channel_std": 1.8778956392069346e-06,
+      "mean": 8.830802944834731e-09,
+      "std": 6.270944327332947e-06,
+      "kurtosis": 2.774270173330952
+    },
+    "psd": {
+      "delta": 0.010831114645468235,
+      "theta": 0.004521051043087618,
+      "alpha": 0.006052955936640074,
+      "beta": 0.003513014283338576,
+      "gamma": 0.0006663855609170576
+    },
+    "snr": 438742449.8547419
+  },
+  "sub-0021_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0021/ses-01/eeg/sub-0021_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.0014648960026482488,
+    "signal_quality": {
+      "rms": 6.503362688786987e-06,
+      "rms_per_channel_mean": 6.099694099239034e-06,
+      "rms_per_channel_std": 2.255539438275293e-06,
+      "mean": -1.9898746811178404e-10,
+      "std": 6.503362685742715e-06,
+      "kurtosis": 16.544006710372997
+    },
+    "psd": {
+      "delta": 0.012809651953717251,
+      "theta": 0.006433175520717631,
+      "alpha": 0.0051508451034421405,
+      "beta": 0.00227884299887054,
+      "gamma": 0.0011422809173181427
+    },
+    "snr": 149659138.33922857
+  },
+  "sub-0023_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0023/ses-01/eeg/sub-0023_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.04446991800797048,
+    "signal_quality": {
+      "rms": 8.109869716658781e-06,
+      "rms_per_channel_mean": 7.707908838207311e-06,
+      "rms_per_channel_std": 2.5215328994611175e-06,
+      "mean": -1.702425194023453e-08,
+      "std": 8.109851847970163e-06,
+      "kurtosis": 33.36920352160626
+    },
+    "psd": {
+      "delta": 0.020288967895944508,
+      "theta": 0.012308298180913148,
+      "alpha": 0.00809474574347398,
+      "beta": 0.0021904351652621582,
+      "gamma": 0.0006779327590892513
+    },
+    "snr": 255706776.04179683
+  },
+  "sub-0023_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0023/ses-01/eeg/sub-0023_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.018458032339965066,
+    "signal_quality": {
+      "rms": 1.3591802066383054e-05,
+      "rms_per_channel_mean": 1.1586544625180536e-05,
+      "rms_per_channel_std": 7.105565921194081e-06,
+      "mean": -8.938765026593863e-09,
+      "std": 1.3591799127055052e-05,
+      "kurtosis": 107.01443265967913
+    },
+    "psd": {
+      "delta": 0.1149606788679102,
+      "theta": 0.022742830520225917,
+      "alpha": 0.0076096470575468395,
+      "beta": 0.003079031014143474,
+      "gamma": 0.002180769723855283
+    },
+    "snr": 153884609.95489782
+  },
+  "sub-0024_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0024/ses-01/eeg/sub-0024_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.08566702181120425,
+    "signal_quality": {
+      "rms": 6.808392495978623e-06,
+      "rms_per_channel_mean": 6.42911435459897e-06,
+      "rms_per_channel_std": 2.240691186841121e-06,
+      "mean": -1.563587831121051e-08,
+      "std": 6.808374541592689e-06,
+      "kurtosis": 2.5885180013921936
+    },
+    "psd": {
+      "delta": 0.012681683661874672,
+      "theta": 0.00494239185898451,
+      "alpha": 0.008175708002866723,
+      "beta": 0.001811417136947218,
+      "gamma": 0.0014719491909841649
+    },
+    "snr": 124676062.1665832
+  },
+  "sub-0024_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0024/ses-01/eeg/sub-0024_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.01534726909123416,
+    "signal_quality": {
+      "rms": 7.206376372983657e-06,
+      "rms_per_channel_mean": 6.6770023476785385e-06,
+      "rms_per_channel_std": 2.710996141309015e-06,
+      "mean": -5.9414571815043625e-09,
+      "std": 7.206373923700022e-06,
+      "kurtosis": 76.26055926109453
+    },
+    "psd": {
+      "delta": 0.02490011100210974,
+      "theta": 0.005869547789587341,
+      "alpha": 0.0023520217125232996,
+      "beta": 0.001663770266077657,
+      "gamma": 0.0018590170617265825
+    },
+    "snr": 127050515.95941952
+  },
+  "sub-0025_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0025/ses-01/eeg/sub-0025_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.04156239855672263,
+    "signal_quality": {
+      "rms": 4.269450983056127e-05,
+      "rms_per_channel_mean": 2.2264353260684376e-05,
+      "rms_per_channel_std": 3.642965472736937e-05,
+      "mean": -2.5731964317282756e-08,
+      "std": 4.2694502076238164e-05,
+      "kurtosis": 1615.6184661525529
+    },
+    "psd": {
+      "delta": 1.0057493232599866,
+      "theta": 0.11411601940693064,
+      "alpha": 0.1245793747692829,
+      "beta": 0.018173787297492573,
+      "gamma": 0.013287395136758973
+    },
+    "snr": 133581538.94196196
+  },
+  "sub-0025_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0025/ses-01/eeg/sub-0025_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.07516544279106618,
+    "signal_quality": {
+      "rms": 3.377558805955116e-05,
+      "rms_per_channel_mean": 1.9004668596335698e-05,
+      "rms_per_channel_std": 2.79215493895297e-05,
+      "mean": -4.2135590172669866e-08,
+      "std": 3.37755617771272e-05,
+      "kurtosis": 173.12541436033698
+    },
+    "psd": {
+      "delta": 0.5798023501868689,
+      "theta": 0.07253267628871121,
+      "alpha": 0.0553351524158332,
+      "beta": 0.013228354151015,
+      "gamma": 0.007644339939090644
+    },
+    "snr": 45372579.427948825
+  },
+  "sub-0026_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0026/ses-01/eeg/sub-0026_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.03593749317699509,
+    "signal_quality": {
+      "rms": 5.553459358440738e-06,
+      "rms_per_channel_mean": 5.3230015455293944e-06,
+      "rms_per_channel_std": 1.5832136280820358e-06,
+      "mean": 2.1651009333062137e-09,
+      "std": 5.553458936391891e-06,
+      "kurtosis": 5.164158031026018
+    },
+    "psd": {
+      "delta": 0.0074021865102502195,
+      "theta": 0.0035542263927979146,
+      "alpha": 0.0032531175608111773,
+      "beta": 0.0022092408956418614,
+      "gamma": 0.00039917503745402224
+    },
+    "snr": 428022712.8282223
+  },
+  "sub-0026_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0026/ses-01/eeg/sub-0026_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.13131816569027951,
+    "signal_quality": {
+      "rms": 5.5199872758925535e-06,
+      "rms_per_channel_mean": 5.270323320089516e-06,
+      "rms_per_channel_std": 1.6413261795683096e-06,
+      "mean": 1.3691465802312682e-09,
+      "std": 5.519987106094844e-06,
+      "kurtosis": 19.291075158207715
+    },
+    "psd": {
+      "delta": 0.010883246880546654,
+      "theta": 0.003353605841115176,
+      "alpha": 0.001957543819210235,
+      "beta": 0.002172420652793697,
+      "gamma": 0.0005407727552520781
+    },
+    "snr": 629895746.0174307
+  },
+  "sub-0027_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0027/ses-01/eeg/sub-0027_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.057906784226903485,
+    "signal_quality": {
+      "rms": 1.0643227549414664e-05,
+      "rms_per_channel_mean": 9.662916552372183e-06,
+      "rms_per_channel_std": 4.461651753612213e-06,
+      "mean": -1.3408205653378959e-08,
+      "std": 1.0643219103665977e-05,
+      "kurtosis": 334.77824826785087
+    },
+    "psd": {
+      "delta": 0.038419717961939735,
+      "theta": 0.011726166376437508,
+      "alpha": 0.014984895043411075,
+      "beta": 0.0028909726731558764,
+      "gamma": 0.0015147256529813174
+    },
+    "snr": 597169237.406432
+  },
+  "sub-0027_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0027/ses-01/eeg/sub-0027_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.014464267810051338,
+    "signal_quality": {
+      "rms": 1.0071031430343738e-05,
+      "rms_per_channel_mean": 9.113812192913665e-06,
+      "rms_per_channel_std": 4.285335620843446e-06,
+      "mean": 4.668878063250096e-09,
+      "std": 1.0071030348109824e-05,
+      "kurtosis": 242.1160613775714
+    },
+    "psd": {
+      "delta": 0.04985211488643915,
+      "theta": 0.010305757881162116,
+      "alpha": 0.008375096870655366,
+      "beta": 0.0025996146542175648,
+      "gamma": 0.0012678826540713929
+    },
+    "snr": 128556457.19882865
+  },
+  "sub-0028_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0028/ses-01/eeg/sub-0028_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.6759766167217639,
+    "signal_quality": {
+      "rms": 1.552194779344456e-05,
+      "rms_per_channel_mean": 1.1184153892279528e-05,
+      "rms_per_channel_std": 1.0763157762303174e-05,
+      "mean": 2.103593856336319e-09,
+      "std": 1.5521947650901008e-05,
+      "kurtosis": 128.0043531059046
+    },
+    "psd": {
+      "delta": 0.033072613833350514,
+      "theta": 0.024774109196227283,
+      "alpha": 0.06077686647106281,
+      "beta": 0.013965768446660906,
+      "gamma": 0.008347926445056745
+    },
+    "snr": 70421443.4532987
+  },
+  "sub-0028_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0028/ses-01/eeg/sub-0028_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 4.573444165308103,
+    "signal_quality": {
+      "rms": 1.49570418777353e-05,
+      "rms_per_channel_mean": 1.195530701433422e-05,
+      "rms_per_channel_std": 8.987977298888696e-06,
+      "mean": 2.6612791133878435e-08,
+      "std": 1.4957018201890227e-05,
+      "kurtosis": 159.89089598399798
+    },
+    "psd": {
+      "delta": 0.08879029577118717,
+      "theta": 0.017424743054273648,
+      "alpha": 0.023493807208046016,
+      "beta": 0.00843001434603065,
+      "gamma": 0.006805376822319498
+    },
+    "snr": 3214381.244584594
+  },
+  "sub-0029_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0029/ses-01/eeg/sub-0029_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.0037778818084360133,
+    "signal_quality": {
+      "rms": 1.2658829000902069e-05,
+      "rms_per_channel_mean": 1.1960090622480281e-05,
+      "rms_per_channel_std": 4.14755156401201e-06,
+      "mean": -4.168246927595736e-09,
+      "std": 1.2658828314650483e-05,
+      "kurtosis": 10.386235644268243
+    },
+    "psd": {
+      "delta": 0.05053804634804181,
+      "theta": 0.01398868226998075,
+      "alpha": 0.012418321249569672,
+      "beta": 0.010253453519424766,
+      "gamma": 0.0016572738871464714
+    },
+    "snr": 304224766.5644306
+  },
+  "sub-0029_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0029/ses-01/eeg/sub-0029_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.0009867946131917596,
+    "signal_quality": {
+      "rms": 1.632479147366629e-05,
+      "rms_per_channel_mean": 1.4183880732048135e-05,
+      "rms_per_channel_std": 8.081852760210456e-06,
+      "mean": 1.6266835680762813e-09,
+      "std": 1.6324791392620864e-05,
+      "kurtosis": 47.646084312394635
+    },
+    "psd": {
+      "delta": 0.14670420393522826,
+      "theta": 0.028349850843474748,
+      "alpha": 0.011615734941738275,
+      "beta": 0.00914949442886858,
+      "gamma": 0.0015141585214106623
+    },
+    "snr": 976754715.7505456
+  },
+  "sub-0030_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0030/ses-01/eeg/sub-0030_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.0010744814708694192,
+    "signal_quality": {
+      "rms": 7.1474348156497015e-06,
+      "rms_per_channel_mean": 6.6135869781656064e-06,
+      "rms_per_channel_std": 2.710404347362178e-06,
+      "mean": 4.260435983472365e-09,
+      "std": 7.147433545871322e-06,
+      "kurtosis": 6.981518459514202
+    },
+    "psd": {
+      "delta": 0.017270295661385684,
+      "theta": 0.005577744668832326,
+      "alpha": 0.005382180995590949,
+      "beta": 0.0009055050094718939,
+      "gamma": 0.00033818922018755045
+    },
+    "snr": 161719886.5148322
+  },
+  "sub-0030_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0030/ses-01/eeg/sub-0030_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.001857159551975139,
+    "signal_quality": {
+      "rms": 8.421705920168038e-06,
+      "rms_per_channel_mean": 7.715678876350529e-06,
+      "rms_per_channel_std": 3.3754155422453695e-06,
+      "mean": 1.5196419715687734e-08,
+      "std": 8.421692209682162e-06,
+      "kurtosis": 205.50455537817768
+    },
+    "psd": {
+      "delta": 0.03406752986989728,
+      "theta": 0.005257825393686304,
+      "alpha": 0.0023112597867562443,
+      "beta": 0.001082444027544514,
+      "gamma": 0.0005096175068945068
+    },
+    "snr": 137439563.4174162
+  },
+  "sub-0031_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0031/ses-01/eeg/sub-0031_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.00046242418512951574,
+    "signal_quality": {
+      "rms": 5.428484301317695e-06,
+      "rms_per_channel_mean": 5.237570554714697e-06,
+      "rms_per_channel_std": 1.4269886103393576e-06,
+      "mean": -9.594958171817201e-09,
+      "std": 5.428475821667657e-06,
+      "kurtosis": 3.7039109118994666
+    },
+    "psd": {
+      "delta": 0.008822593588682032,
+      "theta": 0.005944964022223171,
+      "alpha": 0.005036092124080733,
+      "beta": 0.0009046942721775133,
+      "gamma": 0.000427105609379758
+    },
+    "snr": 684566834.7329996
+  },
+  "sub-0031_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0031/ses-01/eeg/sub-0031_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.005576633993263167,
+    "signal_quality": {
+      "rms": 5.70570119696051e-06,
+      "rms_per_channel_mean": 5.414592233648982e-06,
+      "rms_per_channel_std": 1.7992268040201944e-06,
+      "mean": 1.8473952629894589e-09,
+      "std": 5.705700897885145e-06,
+      "kurtosis": 35.02720641589969
+    },
+    "psd": {
+      "delta": 0.015748202446847662,
+      "theta": 0.002824284934040611,
+      "alpha": 0.0019010566104297566,
+      "beta": 0.0011407308131503493,
+      "gamma": 0.0007780209168587974
+    },
+    "snr": 33467896.40776176
+  },
+  "sub-0032_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0032/ses-01/eeg/sub-0032_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.0017018294580225352,
+    "signal_quality": {
+      "rms": 1.072323790480704e-05,
+      "rms_per_channel_mean": 9.974687131704532e-06,
+      "rms_per_channel_std": 3.936171717252496e-06,
+      "mean": -1.619169028522164e-08,
+      "std": 1.0723225680375108e-05,
+      "kurtosis": 4.169375935930337
+    },
+    "psd": {
+      "delta": 0.019496515436800872,
+      "theta": 0.017953163474209465,
+      "alpha": 0.021824617233194784,
+      "beta": 0.003929944982782126,
+      "gamma": 0.0018080517959625346
+    },
+    "snr": 532560341.8476341
+  },
+  "sub-0032_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0032/ses-01/eeg/sub-0032_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.0013987019042110682,
+    "signal_quality": {
+      "rms": 8.405220456786634e-06,
+      "rms_per_channel_mean": 8.043053558144896e-06,
+      "rms_per_channel_std": 2.4407007985407144e-06,
+      "mean": -6.906701842515764e-10,
+      "std": 8.405220428409907e-06,
+      "kurtosis": 5.609558451820689
+    },
+    "psd": {
+      "delta": 0.019108533429723334,
+      "theta": 0.008796622449615073,
+      "alpha": 0.012033561162110809,
+      "beta": 0.003739196616508993,
+      "gamma": 0.0020051457778333067
+    },
+    "snr": 274859395.14417154
+  },
+  "sub-0033_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0033/ses-01/eeg/sub-0033_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.0009620435332949849,
+    "signal_quality": {
+      "rms": 1.1764429275579464e-05,
+      "rms_per_channel_mean": 1.1026133088067611e-05,
+      "rms_per_channel_std": 4.1019733427134465e-06,
+      "mean": 9.417025928997826e-09,
+      "std": 1.1764425506574206e-05,
+      "kurtosis": 3.7259263016736304
+    },
+    "psd": {
+      "delta": 0.022988104879148367,
+      "theta": 0.022525374392337417,
+      "alpha": 0.03217641879673489,
+      "beta": 0.008823839658180474,
+      "gamma": 0.0009524006259109889
+    },
+    "snr": 2415841034.196426
+  },
+  "sub-0033_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0033/ses-01/eeg/sub-0033_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.0023024581394115074,
+    "signal_quality": {
+      "rms": 1.047069289314899e-05,
+      "rms_per_channel_mean": 9.919194910834962e-06,
+      "rms_per_channel_std": 3.353353841083062e-06,
+      "mean": -9.507760281470762e-09,
+      "std": 1.047068857645643e-05,
+      "kurtosis": 11.60724350118679
+    },
+    "psd": {
+      "delta": 0.04135728628266398,
+      "theta": 0.017221067013444145,
+      "alpha": 0.008778554546381797,
+      "beta": 0.00680916573504231,
+      "gamma": 0.001591370726010136
+    },
+    "snr": 281853975.20527893
+  },
+  "sub-0034_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0034/ses-01/eeg/sub-0034_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.061360080621581645,
+    "signal_quality": {
+      "rms": 1.267560425806041e-05,
+      "rms_per_channel_mean": 1.2271247362304729e-05,
+      "rms_per_channel_std": 3.1760717057535846e-06,
+      "mean": 3.985610722807751e-09,
+      "std": 1.2675603631459387e-05,
+      "kurtosis": 6.46671487673817
+    },
+    "psd": {
+      "delta": 0.029834072208470733,
+      "theta": 0.019565081145374016,
+      "alpha": 0.03829098810261108,
+      "beta": 0.010235141208792852,
+      "gamma": 0.0010155351478083401
+    },
+    "snr": 154463303.71382537
+  },
+  "sub-0034_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0034/ses-01/eeg/sub-0034_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.0021730613200795913,
+    "signal_quality": {
+      "rms": 1.2711444404760357e-05,
+      "rms_per_channel_mean": 1.2189406852328179e-05,
+      "rms_per_channel_std": 3.6054374829870857e-06,
+      "mean": -4.448822523373041e-09,
+      "std": 1.2711443626248418e-05,
+      "kurtosis": 4.420955875868481
+    },
+    "psd": {
+      "delta": 0.0431683885866514,
+      "theta": 0.02295185284053913,
+      "alpha": 0.019834495186896388,
+      "beta": 0.012747400023153624,
+      "gamma": 0.001340766725825802
+    },
+    "snr": 401300644.58625454
+  },
+  "sub-0035_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0035/ses-01/eeg/sub-0035_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.009838212110212984,
+    "signal_quality": {
+      "rms": 6.6021793413084144e-06,
+      "rms_per_channel_mean": 6.164107801181581e-06,
+      "rms_per_channel_std": 2.364856670120197e-06,
+      "mean": -1.0303713988978352e-08,
+      "std": 6.602171301040109e-06,
+      "kurtosis": 115.04273774067457
+    },
+    "psd": {
+      "delta": 0.009243179996841875,
+      "theta": 0.005092840384949147,
+      "alpha": 0.009505218135047877,
+      "beta": 0.0013205651423467833,
+      "gamma": 0.0006948072128445887
+    },
+    "snr": 36703171.360602416
+  },
+  "sub-0035_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0035/ses-01/eeg/sub-0035_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.04823087978644819,
+    "signal_quality": {
+      "rms": 7.63162189704349e-06,
+      "rms_per_channel_mean": 6.64144180061454e-06,
+      "rms_per_channel_std": 3.759375425317826e-06,
+      "mean": 6.453340050336048e-09,
+      "std": 7.631619168553675e-06,
+      "kurtosis": 60.84156171836137
+    },
+    "psd": {
+      "delta": 0.03747844701302723,
+      "theta": 0.005414094851031428,
+      "alpha": 0.0028652684095856517,
+      "beta": 0.001136136927116943,
+      "gamma": 0.0004476285962725491
+    },
+    "snr": 79647653.2114151
+  },
+  "sub-0036_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0036/ses-01/eeg/sub-0036_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.024402475025005,
+    "signal_quality": {
+      "rms": 3.44286022276621e-05,
+      "rms_per_channel_mean": 1.538195600545453e-05,
+      "rms_per_channel_std": 3.080136491775715e-05,
+      "mean": 1.5445766945992968e-08,
+      "std": 3.442859876293055e-05,
+      "kurtosis": 733.3337608925367
+    },
+    "psd": {
+      "delta": 0.6143764524319919,
+      "theta": 0.057417787375482796,
+      "alpha": 0.021303213706496137,
+      "beta": 0.007924190929856046,
+      "gamma": 0.0029673552214754414
+    },
+    "snr": 61817278.37853714
+  },
+  "sub-0036_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0036/ses-01/eeg/sub-0036_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.013127873504387183,
+    "signal_quality": {
+      "rms": 2.8390150927964917e-05,
+      "rms_per_channel_mean": 1.455131157647322e-05,
+      "rms_per_channel_std": 2.43774486178727e-05,
+      "mean": -1.738163854993212e-08,
+      "std": 2.8390145607081142e-05,
+      "kurtosis": 420.3681050737729
+    },
+    "psd": {
+      "delta": 0.4717623166808601,
+      "theta": 0.053786747393525236,
+      "alpha": 0.02087596547264091,
+      "beta": 0.008196972076633549,
+      "gamma": 0.0028985170838183374
+    },
+    "snr": 605031004.2347925
+  },
+  "sub-0037_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0037/ses-01/eeg/sub-0037_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.0008125643590269413,
+    "signal_quality": {
+      "rms": 7.2017733910995255e-06,
+      "rms_per_channel_mean": 6.846603914621063e-06,
+      "rms_per_channel_std": 2.233731141620381e-06,
+      "mean": -1.5336927771918466e-09,
+      "std": 7.201773227791584e-06,
+      "kurtosis": 1.756207108536608
+    },
+    "psd": {
+      "delta": 0.007719142322612806,
+      "theta": 0.004539650949091173,
+      "alpha": 0.011019525019880426,
+      "beta": 0.004443825649909696,
+      "gamma": 0.0008461656046450481
+    },
+    "snr": 256188267.57556236
+  },
+  "sub-0037_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0037/ses-01/eeg/sub-0037_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.0013619376039325471,
+    "signal_quality": {
+      "rms": 7.540173774784193e-06,
+      "rms_per_channel_mean": 7.0418352041230776e-06,
+      "rms_per_channel_std": 2.6956961089700367e-06,
+      "mean": -3.254262372835774e-10,
+      "std": 7.54017376776166e-06,
+      "kurtosis": 28.591468802790295
+    },
+    "psd": {
+      "delta": 0.017526376927137013,
+      "theta": 0.004316295543280092,
+      "alpha": 0.0055661753669760585,
+      "beta": 0.004390970864956876,
+      "gamma": 0.0013188146271526262
+    },
+    "snr": 265011545.38218373
+  },
+  "sub-0038_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0038/ses-01/eeg/sub-0038_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.011876106046019543,
+    "signal_quality": {
+      "rms": 0.000113520318855282,
+      "rms_per_channel_mean": 3.6435048776609995e-05,
+      "rms_per_channel_std": 0.00010751441770130622,
+      "mean": 8.648859196366359e-07,
+      "std": 0.00011351702412127842,
+      "kurtosis": 166.59849540692448
+    },
+    "psd": {
+      "delta": 0.362161029868535,
+      "theta": 0.019198989054462268,
+      "alpha": 0.003871598071432483,
+      "beta": 0.0009674478587588845,
+      "gamma": 0.0006363071518271685
+    },
+    "snr": 236300690.38780412
+  },
+  "sub-0038_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0038/ses-01/eeg/sub-0038_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 237.16532871738949,
+    "signal_quality": {
+      "rms": 2.6402275182049418e-05,
+      "rms_per_channel_mean": 1.40831186974692e-05,
+      "rms_per_channel_std": 2.233261969724233e-05,
+      "mean": 5.5459974879612395e-08,
+      "std": 2.6402216933050322e-05,
+      "kurtosis": 470.5967371520826
+    },
+    "psd": {
+      "delta": 0.4022716309896327,
+      "theta": 0.08415766420946845,
+      "alpha": 0.03948891552504959,
+      "beta": 0.011102487387998508,
+      "gamma": 0.008776733915102967
+    },
+    "snr": 766924.6864047261
+  },
+  "sub-0039_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0039/ses-01/eeg/sub-0039_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.00021156989450054584,
+    "signal_quality": {
+      "rms": 1.58004251580922e-05,
+      "rms_per_channel_mean": 1.4078926575482226e-05,
+      "rms_per_channel_std": 7.171977527757133e-06,
+      "mean": -4.900216861256439e-09,
+      "std": 1.5800424398235248e-05,
+      "kurtosis": 3.2033833682771746
+    },
+    "psd": {
+      "delta": 0.026130977310845703,
+      "theta": 0.031178729809057896,
+      "alpha": 0.11329207634767148,
+      "beta": 0.009314311104888172,
+      "gamma": 0.000785408052589865
+    },
+    "snr": 1545694580.5608387
+  },
+  "sub-0039_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0039/ses-01/eeg/sub-0039_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.00021078462081425842,
+    "signal_quality": {
+      "rms": 1.2988242661772295e-05,
+      "rms_per_channel_mean": 1.1599304992082645e-05,
+      "rms_per_channel_std": 5.843849000592715e-06,
+      "mean": -1.605092869173518e-09,
+      "std": 1.2988242562593246e-05,
+      "kurtosis": 22.922128462948343
+    },
+    "psd": {
+      "delta": 0.09138522116160112,
+      "theta": 0.022064836060356197,
+      "alpha": 0.01416119688913295,
+      "beta": 0.008960768484068588,
+      "gamma": 0.0017454562163339213
+    },
+    "snr": 1118815352.2473786
+  },
+  "sub-0040_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0040/ses-01/eeg/sub-0040_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.06217440892796313,
+    "signal_quality": {
+      "rms": 1.3236778505292746e-05,
+      "rms_per_channel_mean": 1.0485748821049268e-05,
+      "rms_per_channel_std": 8.078451389966025e-06,
+      "mean": 1.0300007549128968e-08,
+      "std": 1.3236774497891266e-05,
+      "kurtosis": 1143.742252975398
+    },
+    "psd": {
+      "delta": 0.09967382494572821,
+      "theta": 0.015637631331556177,
+      "alpha": 0.011917845665795736,
+      "beta": 0.00365610766458994,
+      "gamma": 0.0006819166016025644
+    },
+    "snr": 1291843877.3969853
+  },
+  "sub-0040_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0040/ses-01/eeg/sub-0040_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.0122665949270502,
+    "signal_quality": {
+      "rms": 8.919572491168348e-06,
+      "rms_per_channel_mean": 8.195406390397349e-06,
+      "rms_per_channel_std": 3.5205237566932306e-06,
+      "mean": 1.0070112035330708e-09,
+      "std": 8.919572434323047e-06,
+      "kurtosis": 14.489897887706483
+    },
+    "psd": {
+      "delta": 0.04019036299914829,
+      "theta": 0.011531563089083605,
+      "alpha": 0.009085374147606158,
+      "beta": 0.003212790369459975,
+      "gamma": 0.0009483808082945115
+    },
+    "snr": 1026918392.5773666
+  },
+  "sub-0041_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0041/ses-01/eeg/sub-0041_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.15089788582821997,
+    "signal_quality": {
+      "rms": 6.075465516196305e-06,
+      "rms_per_channel_mean": 5.6706736749377e-06,
+      "rms_per_channel_std": 2.1805369317805637e-06,
+      "mean": 2.7387804537060045e-09,
+      "std": 6.075464898884041e-06,
+      "kurtosis": 3.960224042153757
+    },
+    "psd": {
+      "delta": 0.02073269692725819,
+      "theta": 0.007337975924813273,
+      "alpha": 0.00772722324623032,
+      "beta": 0.0023091142320690572,
+      "gamma": 0.0014856730945512731
+    },
+    "snr": 355717690.71575457
+  },
+  "sub-0041_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0041/ses-01/eeg/sub-0041_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.20852800390476006,
+    "signal_quality": {
+      "rms": 5.788782385451767e-06,
+      "rms_per_channel_mean": 5.380294838733171e-06,
+      "rms_per_channel_std": 2.1359843057517672e-06,
+      "mean": -2.348141608899515e-09,
+      "std": 5.788781909205738e-06,
+      "kurtosis": 21.097100949400843
+    },
+    "psd": {
+      "delta": 0.01699468256630208,
+      "theta": 0.0046330617920541045,
+      "alpha": 0.0029226967001027794,
+      "beta": 0.0011639830445161878,
+      "gamma": 0.0006426404096292376
+    },
+    "snr": 344509830.58694106
+  },
+  "sub-0042_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0042/ses-01/eeg/sub-0042_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.0013479558623475218,
+    "signal_quality": {
+      "rms": 1.6120628566638227e-05,
+      "rms_per_channel_mean": 1.4448668312648704e-05,
+      "rms_per_channel_std": 7.149171236903874e-06,
+      "mean": 2.079526308510036e-09,
+      "std": 1.6120628432511024e-05,
+      "kurtosis": 49.32568691316556
+    },
+    "psd": {
+      "delta": 0.042558041666820534,
+      "theta": 0.007427284842957915,
+      "alpha": 0.03619351418595602,
+      "beta": 0.005302952168786857,
+      "gamma": 0.0011022667629767924
+    },
+    "snr": 381995567.5278935
+  },
+  "sub-0042_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0042/ses-01/eeg/sub-0042_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.00573851292267864,
+    "signal_quality": {
+      "rms": 6.194536692561906e-06,
+      "rms_per_channel_mean": 5.84032566572335e-06,
+      "rms_per_channel_std": 2.064674539434463e-06,
+      "mean": -1.2845661242725942e-09,
+      "std": 6.194536559371143e-06,
+      "kurtosis": 9.474871137594906
+    },
+    "psd": {
+      "delta": 0.014182983763295817,
+      "theta": 0.005014600399664594,
+      "alpha": 0.0042539209123145195,
+      "beta": 0.002912905203857306,
+      "gamma": 0.001227874346253005
+    },
+    "snr": 412670127.88652843
+  },
+  "sub-0043_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0043/ses-01/eeg/sub-0043_ses-01_task-rest_acq-EC_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.01564304216389213,
+    "signal_quality": {
+      "rms": 7.613105586937529e-06,
+      "rms_per_channel_mean": 7.29989172106921e-06,
+      "rms_per_channel_std": 2.1612398151349678e-06,
+      "mean": -6.080190383774318e-09,
+      "std": 7.613103158971663e-06,
+      "kurtosis": 5.565047523899576
+    },
+    "psd": {
+      "delta": 0.012158095158288714,
+      "theta": 0.0069139657904854525,
+      "alpha": 0.016823846280517273,
+      "beta": 0.0013825724958862078,
+      "gamma": 0.0004975863369066475
+    },
+    "snr": 185559443.04225844
+  },
+  "sub-0043_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/eeg/mne-bids-pipeline/sub-0043/ses-01/eeg/sub-0043_ses-01_task-rest_acq-EO_run-1_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.02753592266466565,
+    "signal_quality": {
+      "rms": 1.094929970845971e-05,
+      "rms_per_channel_mean": 9.819039323397867e-06,
+      "rms_per_channel_std": 4.844959326066862e-06,
+      "mean": 2.9374372885343032e-09,
+      "std": 1.0949299314437344e-05,
+      "kurtosis": 8.62316859331709
+    },
+    "psd": {
+      "delta": 0.10331832194473792,
+      "theta": 0.01792162273415488,
+      "alpha": 0.013806458104232151,
+      "beta": 0.0012150677792815907,
+      "gamma": 0.0003222480697799954
+    },
+    "snr": 925904371.4436173
+  }
+}

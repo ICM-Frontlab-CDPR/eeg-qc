@@ -1,0 +1,4355 @@
+{
+  "sub-0001_ses-01_task-detection_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0001/ses-01/eeg/sub-0001_ses-01_task-detection_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 17.255145378910015,
+    "signal_quality": {
+      "rms": 0.0005003433002360406,
+      "rms_per_channel_mean": 0.0004983104437904316,
+      "rms_per_channel_std": 4.5056849651033046e-05,
+      "mean": 3.169419277867934e-05,
+      "std": 0.0004993384585981743,
+      "kurtosis": 36.73183734915482
+    },
+    "psd": {
+      "delta": 19.08617501115834,
+      "theta": 2.3107628839111105,
+      "alpha": 0.7049895317758451,
+      "beta": 0.2516764696063641,
+      "gamma": 0.08191851085975416
+    },
+    "snr": 646.8720969213919
+  },
+  "sub-0001_ses-01_task-rest_acq-EC_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0001/ses-01/eeg/sub-0001_ses-01_task-rest_acq-EC_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.30437932380823896,
+    "signal_quality": {
+      "rms": 0.00011616464537811367,
+      "rms_per_channel_mean": 7.995352366424445e-05,
+      "rms_per_channel_std": 8.427134085496687e-05,
+      "mean": -1.2401219724084075e-05,
+      "std": 0.00011550079906727008,
+      "kurtosis": 138.41661229828446
+    },
+    "psd": {
+      "delta": 0.07192977831700867,
+      "theta": 0.01613920659976857,
+      "alpha": 0.019225639880456332,
+      "beta": 0.002952486487230467,
+      "gamma": 0.0030805042962932776
+    },
+    "snr": 38.114006968672356
+  },
+  "sub-0001_ses-01_task-rest_acq-EO_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0001/ses-01/eeg/sub-0001_ses-01_task-rest_acq-EO_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.2552324597475244,
+    "signal_quality": {
+      "rms": 0.00018712427476445657,
+      "rms_per_channel_mean": 0.00012587082203936153,
+      "rms_per_channel_std": 0.0001384631010964987,
+      "mean": -3.422820913103736e-05,
+      "std": 0.00018396718159988703,
+      "kurtosis": 157.53106050021532
+    },
+    "psd": {
+      "delta": 0.2999240694677382,
+      "theta": 0.031843127999948394,
+      "alpha": 0.008210788674757328,
+      "beta": 0.005038976269337547,
+      "gamma": 0.0059542029691294655
+    },
+    "snr": 55.16255186571296
+  },
+  "sub-0001_ses-01_task-vep_acq-cinetique_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0001/ses-01/eeg/sub-0001_ses-01_task-vep_acq-cinetique_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 78.93778036078396,
+    "signal_quality": {
+      "rms": 0.0001780757202432216,
+      "rms_per_channel_mean": 0.00011987810772422323,
+      "rms_per_channel_std": 0.0001316821986017915,
+      "mean": 5.595855446672335e-06,
+      "std": 0.00017798777638355416,
+      "kurtosis": 179.58330406965518
+    },
+    "psd": {
+      "delta": 0.9799987068604503,
+      "theta": 0.124433750916337,
+      "alpha": 0.02855166508613125,
+      "beta": 0.01971451512597132,
+      "gamma": 0.025256138666158598
+    },
+    "snr": 213.78108499112128
+  },
+  "sub-0001_ses-01_task-vep_acq-cinetique_run-2_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0001/ses-01/eeg/sub-0001_ses-01_task-vep_acq-cinetique_run-2_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 19.45558037527753,
+    "signal_quality": {
+      "rms": 0.0002061899611400917,
+      "rms_per_channel_mean": 0.0001291875209955619,
+      "rms_per_channel_std": 0.00016070122741900192,
+      "mean": 9.743030143217058e-06,
+      "std": 0.00020595964031474925,
+      "kurtosis": 160.55110055577308
+    },
+    "psd": {
+      "delta": 1.924849420674472,
+      "theta": 0.19390382861433944,
+      "alpha": 0.06277774995184622,
+      "beta": 0.08282079071443668,
+      "gamma": 0.12274813854393098
+    },
+    "snr": 121.2857535928918
+  },
+  "sub-0001_ses-01_task-vep_acq-fullfield_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0001/ses-01/eeg/sub-0001_ses-01_task-vep_acq-fullfield_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 11.357255021228191,
+    "signal_quality": {
+      "rms": 0.00023472550644696935,
+      "rms_per_channel_mean": 0.00017146737634883102,
+      "rms_per_channel_std": 0.0001602966070284539,
+      "mean": -3.2403870689428476e-05,
+      "std": 0.0002324780689465762,
+      "kurtosis": 65.84776699706134
+    },
+    "psd": {
+      "delta": 0.26017587962035743,
+      "theta": 0.03436125113038567,
+      "alpha": 0.011101254779880443,
+      "beta": 0.004367733137787867,
+      "gamma": 0.0030811574112913943
+    },
+    "snr": 172.8875895207608
+  },
+  "sub-0002_ses-01_task-detection_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0002/ses-01/eeg/sub-0002_ses-01_task-detection_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 159.17720869724,
+    "signal_quality": {
+      "rms": 0.00020361526847227464,
+      "rms_per_channel_mean": 0.0001489979312343378,
+      "rms_per_channel_std": 0.00013877605716738033,
+      "mean": -5.726741772083483e-06,
+      "std": 0.00020353471935694988,
+      "kurtosis": 116.019255083008
+    },
+    "psd": {
+      "delta": 1.0203626168041344,
+      "theta": 0.13169307923248655,
+      "alpha": 0.13367827715018676,
+      "beta": 0.043270768649985136,
+      "gamma": 0.04931274704712592
+    },
+    "snr": 41.94682621007922
+  },
+  "sub-0002_ses-01_task-rest_acq-EC_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0002/ses-01/eeg/sub-0002_ses-01_task-rest_acq-EC_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 2.007327071315094,
+    "signal_quality": {
+      "rms": 0.00014352029736202062,
+      "rms_per_channel_mean": 0.00013059939968657655,
+      "rms_per_channel_std": 5.951363336571419e-05,
+      "mean": 1.1764426955175234e-05,
+      "std": 0.00014303731685577428,
+      "kurtosis": 136.0119970556089
+    },
+    "psd": {
+      "delta": 0.12779512133072884,
+      "theta": 0.03577899853204492,
+      "alpha": 0.09987490149333962,
+      "beta": 0.009118652052231245,
+      "gamma": 0.0054150944552290485
+    },
+    "snr": 82.45722624067218
+  },
+  "sub-0002_ses-01_task-rest_acq-EO_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0002/ses-01/eeg/sub-0002_ses-01_task-rest_acq-EO_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.5230334369380741,
+    "signal_quality": {
+      "rms": 0.0001668071557971244,
+      "rms_per_channel_mean": 0.00013529607530725633,
+      "rms_per_channel_std": 9.756843358166292e-05,
+      "mean": 9.377952800394721e-06,
+      "std": 0.000166543331377752,
+      "kurtosis": 121.41846828151533
+    },
+    "psd": {
+      "delta": 0.1761228643515042,
+      "theta": 0.028629743136905243,
+      "alpha": 0.03978115611604497,
+      "beta": 0.012065017444871769,
+      "gamma": 0.015055551116542963
+    },
+    "snr": 36.01630171807473
+  },
+  "sub-0002_ses-01_task-vep_acq-fullfield_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0002/ses-01/eeg/sub-0002_ses-01_task-vep_acq-fullfield_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 83.80519356736447,
+    "signal_quality": {
+      "rms": 5.7476577599775405e-05,
+      "rms_per_channel_mean": 5.2585965557821745e-05,
+      "rms_per_channel_std": 2.3200715483247266e-05,
+      "mean": -1.71073936348179e-05,
+      "std": 5.48716142974343e-05,
+      "kurtosis": 99.80567695228211
+    },
+    "psd": {
+      "delta": 0.07181382496232935,
+      "theta": 0.012986628363947404,
+      "alpha": 0.015706144910773174,
+      "beta": 0.0029691300614487597,
+      "gamma": 0.0016775529565523765
+    },
+    "snr": 93.59505365355332
+  },
+  "sub-0004_ses-01_task-rest_acq-EC_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0004/ses-01/eeg/baseline_restingstate_EC.vmrk'"
+  },
+  "sub-0004_ses-01_task-rest_acq-EC_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0004/ses-01/eeg/sub-0004_ses-01_task-rest_acq-EC_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 28.147912593569114,
+    "signal_quality": {
+      "rms": 3.5024442281567634e-05,
+      "rms_per_channel_mean": 3.3202199888984594e-05,
+      "rms_per_channel_std": 1.1150133616543543e-05,
+      "mean": 2.3813361265819683e-06,
+      "std": 3.4943394159513155e-05,
+      "kurtosis": 1.035608467911083
+    },
+    "psd": {
+      "delta": 0.028829645026612595,
+      "theta": 0.017073421982937664,
+      "alpha": 0.06905798157085558,
+      "beta": 0.004439202309447945,
+      "gamma": 0.001989036351267804
+    },
+    "snr": 380.78794548353835
+  },
+  "sub-0004_ses-01_task-rest_acq-EO_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0004/ses-01/eeg/baseline_restingstate_EO.vmrk'"
+  },
+  "sub-0004_ses-01_task-rest_acq-EO_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0004/ses-01/eeg/sub-0004_ses-01_task-rest_acq-EO_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 2.3750467393736456,
+    "signal_quality": {
+      "rms": 5.012341952182832e-05,
+      "rms_per_channel_mean": 4.776564345030614e-05,
+      "rms_per_channel_std": 1.5192119349828283e-05,
+      "mean": -1.9611754635172333e-05,
+      "std": 4.612739169616029e-05,
+      "kurtosis": 2.5984002647152824
+    },
+    "psd": {
+      "delta": 0.0748686013500242,
+      "theta": 0.01666404332390789,
+      "alpha": 0.010604118629488771,
+      "beta": 0.003854395154672464,
+      "gamma": 0.0024860117746856618
+    },
+    "snr": 233.84990535895244
+  },
+  "sub-0004_ses-01_task-vep_acq-cinetique_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0004/ses-01/eeg/sub-0004_ses-01_task-vep_acq-cinetique_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 50.05571995154803,
+    "signal_quality": {
+      "rms": 6.834637026127532e-05,
+      "rms_per_channel_mean": 6.225783566022957e-05,
+      "rms_per_channel_std": 2.819908202043439e-05,
+      "mean": 2.8138991892992286e-06,
+      "std": 6.828841994982605e-05,
+      "kurtosis": 228.43523289632859
+    },
+    "psd": {
+      "delta": 0.21399935639386614,
+      "theta": 0.040509260825407414,
+      "alpha": 0.024441982628609176,
+      "beta": 0.008321915903166,
+      "gamma": 0.005378081625984472
+    },
+    "snr": 177.3472937870703
+  },
+  "sub-0004_ses-01_task-vep_acq-cinetique_run-2_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0004/ses-01/eeg/sub-0004_ses-01_task-vep_acq-cinetique_run-2_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 391.81131920032186,
+    "signal_quality": {
+      "rms": 6.108952464464215e-05,
+      "rms_per_channel_mean": 4.845677631181779e-05,
+      "rms_per_channel_std": 3.720041465864049e-05,
+      "mean": 5.561277738006538e-06,
+      "std": 6.0835862870753245e-05,
+      "kurtosis": 494.1274567814861
+    },
+    "psd": {
+      "delta": 0.19104112024422443,
+      "theta": 0.033987971721686314,
+      "alpha": 0.030530846481771533,
+      "beta": 0.02157811388035542,
+      "gamma": 0.018350816358736397
+    },
+    "snr": 132.06085807712967
+  },
+  "sub-0004_ses-01_task-vep_acq-fullfield_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0004/ses-01/eeg/baseline_VEP_fullfield.vmrk'"
+  },
+  "sub-0004_ses-01_task-vep_acq-fullfield_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0004/ses-01/eeg/sub-0004_ses-01_task-vep_acq-fullfield_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 77.52233058119667,
+    "signal_quality": {
+      "rms": 4.0335925246385414e-05,
+      "rms_per_channel_mean": 3.817337184949319e-05,
+      "rms_per_channel_std": 1.3029986459022649e-05,
+      "mean": 1.060464018560701e-05,
+      "std": 3.891694325118304e-05,
+      "kurtosis": 27.724764487780963
+    },
+    "psd": {
+      "delta": 0.3863189135366539,
+      "theta": 0.06924003587179729,
+      "alpha": 0.02463519402257989,
+      "beta": 0.017779433710353884,
+      "gamma": 0.01344523350095761
+    },
+    "snr": 153.8562423139235
+  },
+  "sub-0004_ses-01_task-vep_acq-statique_run-OD1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0004/ses-01/eeg/basline_statique_OD.vmrk'"
+  },
+  "sub-0004_ses-01_task-vep_acq-statique_run-OD2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0004/ses-01/eeg/basline_statique_OD2.vmrk'"
+  },
+  "sub-0004_ses-01_task-vep_acq-statique_run-OG1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0004/ses-01/eeg/baseline_statique_OG1.vmrk'"
+  },
+  "sub-0004_ses-01_task-vep_acq-statique_run-OG2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0004/ses-01/eeg/baseline_statique_OG2.vmrk'"
+  },
+  "sub-0005_ses-01_task-detection_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0005/ses-01/eeg/sub-0005_ses-01_task-detection_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 84.09807300309332,
+    "signal_quality": {
+      "rms": 5.894142162607701e-05,
+      "rms_per_channel_mean": 5.5553095723935826e-05,
+      "rms_per_channel_std": 1.969631282220615e-05,
+      "mean": 2.1047675229631615e-05,
+      "std": 5.5055304474055276e-05,
+      "kurtosis": 6.875077073091985
+    },
+    "psd": {
+      "delta": 0.07500237193124831,
+      "theta": 0.017029420870714695,
+      "alpha": 0.019620791155085585,
+      "beta": 0.004815025244706621,
+      "gamma": 0.002779436033439995
+    },
+    "snr": 148.46261738652825
+  },
+  "sub-0005_ses-01_task-rest_acq-EC_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0005/ses-01/eeg/sub-0005_ses-01_task-rest_acq-EC_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 4.302037837694131,
+    "signal_quality": {
+      "rms": 5.4125336972170295e-05,
+      "rms_per_channel_mean": 5.1485341961033924e-05,
+      "rms_per_channel_std": 1.6697654491166822e-05,
+      "mean": 7.043881750960465e-06,
+      "std": 5.366503360876121e-05,
+      "kurtosis": 3.0579335222625623
+    },
+    "psd": {
+      "delta": 0.03892197317059034,
+      "theta": 0.020237622130620393,
+      "alpha": 0.020854349512148953,
+      "beta": 0.0032252701209394383,
+      "gamma": 0.0010325935407388643
+    },
+    "snr": 230.698188450709
+  },
+  "sub-0005_ses-01_task-rest_acq-EO_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0005/ses-01/eeg/sub-0005_ses-01_task-rest_acq-EO_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 11.795004714162367,
+    "signal_quality": {
+      "rms": 6.505247251556884e-05,
+      "rms_per_channel_mean": 5.597813060838252e-05,
+      "rms_per_channel_std": 3.314020328814697e-05,
+      "mean": -2.973480728355399e-06,
+      "std": 6.498447962973113e-05,
+      "kurtosis": 8.850644192065536
+    },
+    "psd": {
+      "delta": 0.028933731764181122,
+      "theta": 0.007420732724268274,
+      "alpha": 0.015609741686669808,
+      "beta": 0.002447445201151058,
+      "gamma": 0.0010418405215595547
+    },
+    "snr": 195.22327219711246
+  },
+  "sub-0005_ses-01_task-vep_acq-cinetique_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0005/ses-01/eeg/sub-0005_ses-01_task-vep_acq-cinetique_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 4732.685095343523,
+    "signal_quality": {
+      "rms": 0.0001357848330453872,
+      "rms_per_channel_mean": 7.548073726544634e-05,
+      "rms_per_channel_std": 0.00011287240223822801,
+      "mean": -3.5076361882789115e-06,
+      "std": 0.00013573952030832568,
+      "kurtosis": 335.822306537202
+    },
+    "psd": {
+      "delta": 0.25436831645205304,
+      "theta": 0.04279047856926696,
+      "alpha": 0.0226120715934249,
+      "beta": 0.00786301667061044,
+      "gamma": 0.003936503885788861
+    },
+    "snr": 85.58341071014202
+  },
+  "sub-0005_ses-01_task-vep_acq-cinetique_run-2_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0005/ses-01/eeg/sub-0005_ses-01_task-vep_acq-cinetique_run-2_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 273.18230960803163,
+    "signal_quality": {
+      "rms": 0.00010020576227757723,
+      "rms_per_channel_mean": 8.100051914369071e-05,
+      "rms_per_channel_std": 5.899246301081957e-05,
+      "mean": 1.6716371621229216e-05,
+      "std": 9.880160784851269e-05,
+      "kurtosis": 216.09270607296017
+    },
+    "psd": {
+      "delta": 0.21497728720551637,
+      "theta": 0.029704575473170198,
+      "alpha": 0.016666562979037063,
+      "beta": 0.007801885090569686,
+      "gamma": 0.006769266919487504
+    },
+    "snr": 103.36012932207304
+  },
+  "sub-0005_ses-01_task-vep_acq-fullfield_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0005/ses-01/eeg/sub-0005_ses-01_task-vep_acq-fullfield_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 1.7183835532885288,
+    "signal_quality": {
+      "rms": 8.119313355681266e-05,
+      "rms_per_channel_mean": 7.423046035569202e-05,
+      "rms_per_channel_std": 3.289625650672814e-05,
+      "mean": 1.6771371600221652e-05,
+      "std": 7.944209231523106e-05,
+      "kurtosis": 47.44229504927047
+    },
+    "psd": {
+      "delta": 0.0774401227696809,
+      "theta": 0.011413000677714912,
+      "alpha": 0.005107706250969165,
+      "beta": 0.004341378010187334,
+      "gamma": 0.004366358767401999
+    },
+    "snr": 70.71585744315985
+  },
+  "sub-0007_ses-01_task-detection_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0007/ses-01/eeg/Baseline_Detection.vmrk'"
+  },
+  "sub-0007_ses-01_task-detection_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0007/ses-01/eeg/sub-0007_ses-01_task-detection_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.320483949591918,
+    "signal_quality": {
+      "rms": 0.0003804572931164343,
+      "rms_per_channel_mean": 8.791404972325726e-05,
+      "rms_per_channel_std": 0.0003701606026399096,
+      "mean": 1.2267522975315376e-05,
+      "std": 0.0003802594637422382,
+      "kurtosis": 67.77634949712994
+    },
+    "psd": {
+      "delta": 2.0138268704072964,
+      "theta": 0.12316521021432993,
+      "alpha": 0.027751575566697113,
+      "beta": 0.009641192597560355,
+      "gamma": 0.0058954680987680285
+    },
+    "snr": 315.0315287043946
+  },
+  "sub-0007_ses-01_task-rest_acq-EC_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0007/ses-01/eeg/Baseline_restingstate_EC.vmrk'"
+  },
+  "sub-0007_ses-01_task-rest_acq-EC_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0007/ses-01/eeg/sub-0007_ses-01_task-rest_acq-EC_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 8.908493686658723,
+    "signal_quality": {
+      "rms": 0.0001184452036355775,
+      "rms_per_channel_mean": 7.499748174179339e-05,
+      "rms_per_channel_std": 9.167684547726752e-05,
+      "mean": 3.334397624257331e-05,
+      "std": 0.00011365494055520916,
+      "kurtosis": 517.5027632980359
+    },
+    "psd": {
+      "delta": 0.04612066400884869,
+      "theta": 0.006118488104476872,
+      "alpha": 0.006267776581720514,
+      "beta": 0.0017876399139530779,
+      "gamma": 0.0007610777133339756
+    },
+    "snr": 83.46414623300454
+  },
+  "sub-0007_ses-01_task-rest_acq-EO_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0007/ses-01/eeg/Baseline_restingstate_EO.vmrk'"
+  },
+  "sub-0007_ses-01_task-rest_acq-EO_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0007/ses-01/eeg/sub-0007_ses-01_task-rest_acq-EO_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 110.93050653521159,
+    "signal_quality": {
+      "rms": 6.501083174333332e-05,
+      "rms_per_channel_mean": 5.574037237112832e-05,
+      "rms_per_channel_std": 3.3457721558527414e-05,
+      "mean": 2.9704833075958097e-05,
+      "std": 5.782759839289076e-05,
+      "kurtosis": 238.7480852617253
+    },
+    "psd": {
+      "delta": 0.08473966478002579,
+      "theta": 0.012246383428224364,
+      "alpha": 0.005221796034206748,
+      "beta": 0.0033908793747390534,
+      "gamma": 0.0033218255306958107
+    },
+    "snr": 46.53329575904631
+  },
+  "sub-0007_ses-01_task-vep_acq-cinetique_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0007/ses-01/eeg/sub-0007_ses-01_task-vep_acq-cinetique_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 38.68993305700679,
+    "signal_quality": {
+      "rms": 0.00020677359513983506,
+      "rms_per_channel_mean": 0.0001510402974773558,
+      "rms_per_channel_std": 0.00014121667105906544,
+      "mean": -3.625142128952259e-06,
+      "std": 0.00020674181481160822,
+      "kurtosis": 107.05526671435011
+    },
+    "psd": {
+      "delta": 0.7711430401647849,
+      "theta": 0.0573945402153031,
+      "alpha": 0.017449646535324416,
+      "beta": 0.013463387760981271,
+      "gamma": 0.015625398974944794
+    },
+    "snr": 135.31434634698326
+  },
+  "sub-0007_ses-01_task-vep_acq-cinetique_run-2_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0007/ses-01/eeg/sub-0007_ses-01_task-vep_acq-cinetique_run-2_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 90.5327030005037,
+    "signal_quality": {
+      "rms": 0.00037588192754151923,
+      "rms_per_channel_mean": 0.00015344544178741643,
+      "rms_per_channel_std": 0.0003431351335071833,
+      "mean": 2.1862616370598277e-05,
+      "std": 0.000375245585527345,
+      "kurtosis": 61.39330500277305
+    },
+    "psd": {
+      "delta": 2.4377405571000326,
+      "theta": 0.20334367041154658,
+      "alpha": 0.0515183066408925,
+      "beta": 0.016597460752766233,
+      "gamma": 0.011381194613865858
+    },
+    "snr": 531.5970719497275
+  },
+  "sub-0007_ses-01_task-vep_acq-fullfield_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0007/ses-01/eeg/Baseline_VEP_fullfield.vmrk'"
+  },
+  "sub-0007_ses-01_task-vep_acq-fullfield_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0007/ses-01/eeg/sub-0007_ses-01_task-vep_acq-fullfield_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 6.843460750935909,
+    "signal_quality": {
+      "rms": 0.0001006043468526207,
+      "rms_per_channel_mean": 4.8455846463896876e-05,
+      "rms_per_channel_std": 8.816612472548436e-05,
+      "mean": -1.9152364212418056e-05,
+      "std": 9.876447514525301e-05,
+      "kurtosis": 448.29473026455463
+    },
+    "psd": {
+      "delta": 0.31274518765538234,
+      "theta": 0.029406518494005444,
+      "alpha": 0.00831066508199818,
+      "beta": 0.0027964932126975706,
+      "gamma": 0.0012117783436610286
+    },
+    "snr": 1297.4603639646843
+  },
+  "sub-0007_ses-01_task-vep_acq-statique_run-OD1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0007/ses-01/eeg/Baseline_statique_OD1.vmrk'"
+  },
+  "sub-0007_ses-01_task-vep_acq-statique_run-OD2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0007/ses-01/eeg/Baseline_statique_OD2.vmrk'"
+  },
+  "sub-0007_ses-01_task-vep_acq-statique_run-OG1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0007/ses-01/eeg/Baseline_statique_OG1.vmrk'"
+  },
+  "sub-0007_ses-01_task-vep_acq-statique_run-OG2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0007/ses-01/eeg/Baseline_statique_OG2.vmrk'"
+  },
+  "sub-0008_ses-01_task-rest_acq-EC_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0008/ses-01/eeg/Baseline_restingstate_EC.vmrk'"
+  },
+  "sub-0008_ses-01_task-rest_acq-EC_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0008/ses-01/eeg/sub-0008_ses-01_task-rest_acq-EC_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 50.841811206680426,
+    "signal_quality": {
+      "rms": 4.2363411436436686e-05,
+      "rms_per_channel_mean": 3.908924600801243e-05,
+      "rms_per_channel_std": 1.633062996512685e-05,
+      "mean": 2.9110713427828293e-05,
+      "std": 3.0777020522715844e-05,
+      "kurtosis": 1.1601344821723023
+    },
+    "psd": {
+      "delta": 0.019015322327749894,
+      "theta": 0.009714429553306078,
+      "alpha": 0.008234023501220883,
+      "beta": 0.001685218376594999,
+      "gamma": 0.000701318060515175
+    },
+    "snr": 124.55627089411001
+  },
+  "sub-0008_ses-01_task-rest_acq-EO_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0008/ses-01/eeg/Baseline_restingstate_EO.vmrk'"
+  },
+  "sub-0008_ses-01_task-rest_acq-EO_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0008/ses-01/eeg/sub-0008_ses-01_task-rest_acq-EO_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 8.580201269627564,
+    "signal_quality": {
+      "rms": 4.4888499923422234e-05,
+      "rms_per_channel_mean": 4.144527633209684e-05,
+      "rms_per_channel_std": 1.724141801393412e-05,
+      "mean": 3.342936206871659e-05,
+      "std": 2.995755625971069e-05,
+      "kurtosis": 1.228829704108624
+    },
+    "psd": {
+      "delta": 0.020193506528133922,
+      "theta": 0.007369965616001551,
+      "alpha": 0.005052667908341476,
+      "beta": 0.0017047265891550094,
+      "gamma": 0.0011162547149018247
+    },
+    "snr": 81.3400337583183
+  },
+  "sub-0008_ses-01_task-vep_acq-cinetique_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0008/ses-01/eeg/sub-0008_ses-01_task-vep_acq-cinetique_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 2293.36778388136,
+    "signal_quality": {
+      "rms": 0.00022149041644962546,
+      "rms_per_channel_mean": 9.441958313953784e-05,
+      "rms_per_channel_std": 0.0002003570485378152,
+      "mean": 1.5941697429373285e-05,
+      "std": 0.00022091597240149667,
+      "kurtosis": 174.86961408933252
+    },
+    "psd": {
+      "delta": 1.3711024071371007,
+      "theta": 0.11956978868804828,
+      "alpha": 0.028686795328321916,
+      "beta": 0.013851633379162101,
+      "gamma": 0.015893424178312177
+    },
+    "snr": 16.783563997967644
+  },
+  "sub-0008_ses-01_task-vep_acq-cinetique_run-2_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0008/ses-01/eeg/sub-0008_ses-01_task-vep_acq-cinetique_run-2_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 276.7370950641995,
+    "signal_quality": {
+      "rms": 0.00014566642262417337,
+      "rms_per_channel_mean": 8.818566039502775e-05,
+      "rms_per_channel_std": 0.00011593962213504546,
+      "mean": 2.7705755627899075e-05,
+      "std": 0.0001430073347252211,
+      "kurtosis": 217.7223904422237
+    },
+    "psd": {
+      "delta": 0.23071639611230138,
+      "theta": 0.027904638071226704,
+      "alpha": 0.012987206044660221,
+      "beta": 0.009751168403051758,
+      "gamma": 0.01041994121531618
+    },
+    "snr": 54.60875953490582
+  },
+  "sub-0008_ses-01_task-vep_acq-statique_run-OD1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0008/ses-01/eeg/Baseline_statique_OD1.vmrk'"
+  },
+  "sub-0008_ses-01_task-vep_acq-statique_run-OD2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0008/ses-01/eeg/Baseline_statique_OD2.vmrk'"
+  },
+  "sub-0008_ses-01_task-vep_acq-statique_run-OG1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0008/ses-01/eeg/Baseline_statique_OG1.vmrk'"
+  },
+  "sub-0008_ses-01_task-vep_acq-statique_run-OG2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0008/ses-01/eeg/Baseline_statique_OG2.vmrk'"
+  },
+  "sub-0009_ses-01_task-rest_acq-EC_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0009/ses-01/eeg/Baseline_restingstate_EC.vmrk'"
+  },
+  "sub-0009_ses-01_task-rest_acq-EC_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0009/ses-01/eeg/sub-0009_ses-01_task-rest_acq-EC_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 2.3374146969715572,
+    "signal_quality": {
+      "rms": 3.3609016595767955e-05,
+      "rms_per_channel_mean": 3.1599642851849003e-05,
+      "rms_per_channel_std": 1.1446771080535966e-05,
+      "mean": 9.93290891934843e-06,
+      "std": 3.210768314491929e-05,
+      "kurtosis": 9.24180332562083
+    },
+    "psd": {
+      "delta": 0.035887035822882496,
+      "theta": 0.014284040109731388,
+      "alpha": 0.01608749577447736,
+      "beta": 0.0033165313994796986,
+      "gamma": 0.001761409343286679
+    },
+    "snr": 127.24829887648664
+  },
+  "sub-0009_ses-01_task-rest_acq-EO_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0009/ses-01/eeg/Baseline_restingstate_EO.vmrk'"
+  },
+  "sub-0009_ses-01_task-rest_acq-EO_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0009/ses-01/eeg/sub-0009_ses-01_task-rest_acq-EO_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.9603189768148743,
+    "signal_quality": {
+      "rms": 5.318428139027568e-05,
+      "rms_per_channel_mean": 4.3355740839563335e-05,
+      "rms_per_channel_std": 3.0803368699748476e-05,
+      "mean": 2.051992167397902e-05,
+      "std": 4.906628783078857e-05,
+      "kurtosis": 21.662012385861107
+    },
+    "psd": {
+      "delta": 0.24617229117256748,
+      "theta": 0.04438774149886938,
+      "alpha": 0.012727717615279894,
+      "beta": 0.004127173593035575,
+      "gamma": 0.003428659856529133
+    },
+    "snr": 114.12518045469832
+  },
+  "sub-0009_ses-01_task-vep_acq-cinetique_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0009/ses-01/eeg/sub-0009_ses-01_task-vep_acq-cinetique_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 184.48224331018193,
+    "signal_quality": {
+      "rms": 0.00015109440481184168,
+      "rms_per_channel_mean": 9.655517044919627e-05,
+      "rms_per_channel_std": 0.0001162179772022011,
+      "mean": 1.1234153542843692e-05,
+      "std": 0.00015067618577472853,
+      "kurtosis": 216.4503432071925
+    },
+    "psd": {
+      "delta": 0.4879140590535101,
+      "theta": 0.06661634325968248,
+      "alpha": 0.03605192890246286,
+      "beta": 0.07075974670975527,
+      "gamma": 0.06347846382572861
+    },
+    "snr": 85.71243469530874
+  },
+  "sub-0009_ses-01_task-vep_acq-cinetique_run-2_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0009/ses-01/eeg/sub-0009_ses-01_task-vep_acq-cinetique_run-2_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 12111.746489148787,
+    "signal_quality": {
+      "rms": 0.0001441408237461912,
+      "rms_per_channel_mean": 7.812579996491038e-05,
+      "rms_per_channel_std": 0.00012113189691436921,
+      "mean": 1.572881167684327e-05,
+      "std": 0.00014328008079794258,
+      "kurtosis": 172.33410045316612
+    },
+    "psd": {
+      "delta": 0.5487406558998162,
+      "theta": 0.07959920361480993,
+      "alpha": 0.045881053713961006,
+      "beta": 0.09892710815421787,
+      "gamma": 0.09528702198349777
+    },
+    "snr": 38.18364327076921
+  },
+  "sub-0009_ses-01_task-vep_acq-statique_run-OD1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0009/ses-01/eeg/Baseline_statique_OD1.vmrk'"
+  },
+  "sub-0009_ses-01_task-vep_acq-statique_run-OD2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0009/ses-01/eeg/Baseline_statique_OD2.vmrk'"
+  },
+  "sub-0009_ses-01_task-vep_acq-statique_run-OG1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0009/ses-01/eeg/Baseline_statique_OG1.vmrk'"
+  },
+  "sub-0009_ses-01_task-vep_acq-statique_run-OG2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0009/ses-01/eeg/Baseline_statique_OG2.vmrk'"
+  },
+  "sub-0011_ses-01_task-rest_acq-EC_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0011/ses-01/eeg/Baseline_restingstate_EC.vmrk'"
+  },
+  "sub-0011_ses-01_task-rest_acq-EC_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0011/ses-01/eeg/sub-0011_ses-01_task-rest_acq-EC_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 108.3967422280239,
+    "signal_quality": {
+      "rms": 3.4672742044055775e-05,
+      "rms_per_channel_mean": 3.164349693393348e-05,
+      "rms_per_channel_std": 1.4173501425045827e-05,
+      "mean": 2.969875274195144e-06,
+      "std": 3.454531634982314e-05,
+      "kurtosis": 1.2313104462995161
+    },
+    "psd": {
+      "delta": 0.011831550106035968,
+      "theta": 0.002058335178341324,
+      "alpha": 0.0024247223695196885,
+      "beta": 0.0011884241118628092,
+      "gamma": 0.00037794170500435147
+    },
+    "snr": 91.21787101685732
+  },
+  "sub-0011_ses-01_task-vep_acq-cinetique_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0011/ses-01/eeg/sub-0011_ses-01_task-vep_acq-cinetique_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 1330.1757353765272,
+    "signal_quality": {
+      "rms": 0.00015383563784912948,
+      "rms_per_channel_mean": 8.861268165274954e-05,
+      "rms_per_channel_std": 0.0001257505313020863,
+      "mean": 1.0275919127169125e-05,
+      "std": 0.00015349204851893927,
+      "kurtosis": 318.2962253988574
+    },
+    "psd": {
+      "delta": 1.0606451564632597,
+      "theta": 0.2137596384553716,
+      "alpha": 0.05258500116053706,
+      "beta": 0.017628489748545983,
+      "gamma": 0.013319934427077445
+    },
+    "snr": 203.33284551224818
+  },
+  "sub-0011_ses-01_task-vep_acq-cinetique_run-2_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0011/ses-01/eeg/sub-0011_ses-01_task-vep_acq-cinetique_run-2_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 11.61120412665326,
+    "signal_quality": {
+      "rms": 0.00010328435130176103,
+      "rms_per_channel_mean": 6.723077411801935e-05,
+      "rms_per_channel_std": 7.840714403239954e-05,
+      "mean": 1.2532221817467189e-05,
+      "std": 0.0001025212204382263,
+      "kurtosis": 544.1421354300874
+    },
+    "psd": {
+      "delta": 1.3035620978755078,
+      "theta": 0.19016514774499457,
+      "alpha": 0.031515069064295485,
+      "beta": 0.009922732631123914,
+      "gamma": 0.006677708852573911
+    },
+    "snr": 297.6880400738186
+  },
+  "sub-0011_ses-01_task-vep_acq-statique_run-OD1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0011/ses-01/eeg/Baseline_statiqueOD_2.vmrk'"
+  },
+  "sub-0011_ses-01_task-vep_acq-statique_run-OG1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0011/ses-01/eeg/Baseline_statiqueOG_1.vmrk'"
+  },
+  "sub-0012_ses-01_task-detection_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0012/ses-01/eeg/Baseline_Detection.vmrk'"
+  },
+  "sub-0012_ses-01_task-detection_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0012/ses-01/eeg/sub-0012_ses-01_task-detection_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 30.57995759331259,
+    "signal_quality": {
+      "rms": 6.226102396527855e-05,
+      "rms_per_channel_mean": 4.5722554391665706e-05,
+      "rms_per_channel_std": 4.225971042383231e-05,
+      "mean": 2.4446538632874403e-05,
+      "std": 5.7260823030029604e-05,
+      "kurtosis": 1264.8879011552049
+    },
+    "psd": {
+      "delta": 0.2871439573565194,
+      "theta": 0.04165910856505134,
+      "alpha": 0.013249081596294543,
+      "beta": 0.010190866791745015,
+      "gamma": 0.0052395832626411405
+    },
+    "snr": 422.02933258836663
+  },
+  "sub-0012_ses-01_task-rest_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0012/ses-01/eeg/Baseline_resting-state_EO.vmrk'"
+  },
+  "sub-0012_ses-01_task-rest_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0012/ses-01/eeg/sub-0012_ses-01_task-rest_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 2.0602310088236115,
+    "signal_quality": {
+      "rms": 8.262604609518399e-05,
+      "rms_per_channel_mean": 7.899421766871538e-05,
+      "rms_per_channel_std": 2.4227609626850998e-05,
+      "mean": 6.431770623783938e-05,
+      "std": 5.186806491114226e-05,
+      "kurtosis": 1.580836292207933
+    },
+    "psd": {
+      "delta": 0.2546337584517041,
+      "theta": 0.03639368145868654,
+      "alpha": 0.00871972942338719,
+      "beta": 0.00567385083227061,
+      "gamma": 0.003267429253327856
+    },
+    "snr": 404.1379633334873
+  },
+  "sub-0012_ses-01_task-vep_acq-cinetique_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0012/ses-01/eeg/sub-0012_ses-01_task-vep_acq-cinetique_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 1.5128308898962342,
+    "signal_quality": {
+      "rms": 0.0007343246114295256,
+      "rms_per_channel_mean": 0.0007336524205535009,
+      "rms_per_channel_std": 3.141274848071906e-05,
+      "mean": 0.00015836188069656611,
+      "std": 0.0007170454307039202,
+      "kurtosis": 14.016198581195084
+    },
+    "psd": {
+      "delta": 12.197186253795774,
+      "theta": 2.0696333122968604,
+      "alpha": 0.72321259484955,
+      "beta": 0.2132040192699573,
+      "gamma": 0.09774108649816764
+    },
+    "snr": 3786.872131745815
+  },
+  "sub-0012_ses-01_task-vep_acq-cinetique_run-2_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0012/ses-01/eeg/sub-0012_ses-01_task-vep_acq-cinetique_run-2_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 1987.9703922092633,
+    "signal_quality": {
+      "rms": 5.401164106032253e-05,
+      "rms_per_channel_mean": 4.860702106901124e-05,
+      "rms_per_channel_std": 2.3550262691227383e-05,
+      "mean": 3.0133121145451287e-05,
+      "std": 4.4824684941030823e-05,
+      "kurtosis": 7.818081395049967
+    },
+    "psd": {
+      "delta": 0.07291088641908737,
+      "theta": 0.013276632543550264,
+      "alpha": 0.00837176818863249,
+      "beta": 0.004479490555368742,
+      "gamma": 0.002547381831453213
+    },
+    "snr": 178.2103342918335
+  },
+  "sub-0012_ses-01_task-vep_acq-statique_run-OD1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0012/ses-01/eeg/Baseline_statique_OD1.vmrk'"
+  },
+  "sub-0012_ses-01_task-vep_acq-statique_run-OD2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0012/ses-01/eeg/Baseline_statique_OD2.vmrk'"
+  },
+  "sub-0012_ses-01_task-vep_acq-statique_run-OG1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0012/ses-01/eeg/Baseline_statique_OG1.vmrk'"
+  },
+  "sub-0012_ses-01_task-vep_acq-statique_run-OG2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0012/ses-01/eeg/Baseline_statique_OG2.vmrk'"
+  },
+  "sub-0014_ses-01_task-rest_acq-EC_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0014/ses-01/eeg/Baseline_restingstate_EC.vmrk'"
+  },
+  "sub-0014_ses-01_task-rest_acq-EC_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0014/ses-01/eeg/sub-0014_ses-01_task-rest_acq-EC_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 126.75727127386637,
+    "signal_quality": {
+      "rms": 4.0369701216581056e-05,
+      "rms_per_channel_mean": 3.744848220982149e-05,
+      "rms_per_channel_std": 1.5077266214294605e-05,
+      "mean": 1.5986940242914647e-05,
+      "std": 3.7069266488366103e-05,
+      "kurtosis": 4.467266816733162
+    },
+    "psd": {
+      "delta": 0.04547434980726224,
+      "theta": 0.009553228638113892,
+      "alpha": 0.003508033425217638,
+      "beta": 0.002189135476821336,
+      "gamma": 0.0009470539071594228
+    },
+    "snr": 70.35259915469321
+  },
+  "sub-0014_ses-01_task-rest_acq-EO_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0014/ses-01/eeg/Baseline_restingstate_EO.vmrk'"
+  },
+  "sub-0014_ses-01_task-rest_acq-EO_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0014/ses-01/eeg/sub-0014_ses-01_task-rest_acq-EO_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 1.3291449021085113,
+    "signal_quality": {
+      "rms": 6.680366342505245e-05,
+      "rms_per_channel_mean": 5.8332275491669865e-05,
+      "rms_per_channel_std": 3.255879424935176e-05,
+      "mean": 2.6955580514221653e-05,
+      "std": 6.112385889445303e-05,
+      "kurtosis": 492.8382809325738
+    },
+    "psd": {
+      "delta": 0.1330794025508755,
+      "theta": 0.016539492988235597,
+      "alpha": 0.0041978433260410584,
+      "beta": 0.002749352106730482,
+      "gamma": 0.001821863402350545
+    },
+    "snr": 97.15003465700934
+  },
+  "sub-0014_ses-01_task-vep_acq-cinetique_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0014/ses-01/eeg/sub-0014_ses-01_task-vep_acq-cinetique_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 1020.8710462723944,
+    "signal_quality": {
+      "rms": 0.00019229045867091257,
+      "rms_per_channel_mean": 0.0001159276778618644,
+      "rms_per_channel_std": 0.00015341575538850544,
+      "mean": 1.0897475731926437e-05,
+      "std": 0.00019198141972217526,
+      "kurtosis": 157.80876494427363
+    },
+    "psd": {
+      "delta": 0.14607244166790392,
+      "theta": 0.0191584861582537,
+      "alpha": 0.007132064771936485,
+      "beta": 0.005623697230043552,
+      "gamma": 0.008285365080975979
+    },
+    "snr": 26.405536335330183
+  },
+  "sub-0014_ses-01_task-vep_acq-cinetique_run-2_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0014/ses-01/eeg/sub-0014_ses-01_task-vep_acq-cinetique_run-2_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 3.543366261876724,
+    "signal_quality": {
+      "rms": 4.061368397397786e-05,
+      "rms_per_channel_mean": 3.530155335953483e-05,
+      "rms_per_channel_std": 2.0081624843175935e-05,
+      "mean": 1.6047347382334236e-05,
+      "std": 3.730889931274891e-05,
+      "kurtosis": 5.468933548226827
+    },
+    "psd": {
+      "delta": 0.058603615077809895,
+      "theta": 0.008550844703431046,
+      "alpha": 0.0025778979289621485,
+      "beta": 0.0015866635512058547,
+      "gamma": 0.0008121356466705062
+    },
+    "snr": 159.60132969272607
+  },
+  "sub-0014_ses-01_task-vep_acq-statique_run-OD1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0014/ses-01/eeg/Baseline_statique_OD1.vmrk'"
+  },
+  "sub-0014_ses-01_task-vep_acq-statique_run-OD2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0014/ses-01/eeg/Baseline_statique_OD2.vmrk'"
+  },
+  "sub-0014_ses-01_task-vep_acq-statique_run-OG1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0014/ses-01/eeg/Baseline_statique_OG1.vmrk'"
+  },
+  "sub-0014_ses-01_task-vep_acq-statique_run-OG2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0014/ses-01/eeg/Baseline_statique_OG2.vmrk'"
+  },
+  "sub-0015_ses-01_task-rest_acq-EC_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0015/ses-01/eeg/Baseline_restingstate_EC.vmrk'"
+  },
+  "sub-0015_ses-01_task-rest_acq-EC_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0015/ses-01/eeg/sub-0015_ses-01_task-rest_acq-EC_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 2.9113129920432392,
+    "signal_quality": {
+      "rms": 3.1456313261684874e-05,
+      "rms_per_channel_mean": 2.894748394242861e-05,
+      "rms_per_channel_std": 1.2310272841009235e-05,
+      "mean": 1.601549895640789e-05,
+      "std": 2.7074036219126062e-05,
+      "kurtosis": 3.2108369366889606
+    },
+    "psd": {
+      "delta": 0.03141738744733973,
+      "theta": 0.01149969110453641,
+      "alpha": 0.02113744021294021,
+      "beta": 0.003283680920331211,
+      "gamma": 0.0007028755529814938
+    },
+    "snr": 271.23450253421635
+  },
+  "sub-0015_ses-01_task-rest_acq-EO_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0015/ses-01/eeg/Baseline_restingstate_EO.vmrk'"
+  },
+  "sub-0015_ses-01_task-rest_acq-EO_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0015/ses-01/eeg/sub-0015_ses-01_task-rest_acq-EO_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 21.395805902400237,
+    "signal_quality": {
+      "rms": 2.932966193113254e-05,
+      "rms_per_channel_mean": 2.600686603794729e-05,
+      "rms_per_channel_std": 1.355994055587225e-05,
+      "mean": 1.5141888408702378e-05,
+      "std": 2.511876359244081e-05,
+      "kurtosis": 0.5918389027222943
+    },
+    "psd": {
+      "delta": 0.022086367743004875,
+      "theta": 0.010024319670841499,
+      "alpha": 0.010132008154195574,
+      "beta": 0.003304244486527515,
+      "gamma": 0.0012278363059023093
+    },
+    "snr": 164.6343154366634
+  },
+  "sub-0015_ses-01_task-vep_acq-statique_run-OD1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0015/ses-01/eeg/Baseline_statique_OD1.vmrk'"
+  },
+  "sub-0015_ses-01_task-vep_acq-statique_run-OD2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0015/ses-01/eeg/Baseline_statique_OD2.vmrk'"
+  },
+  "sub-0015_ses-01_task-vep_acq-statique_run-OG1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0015/ses-01/eeg/Baseline_statique_OG1.vmrk'"
+  },
+  "sub-0015_ses-01_task-vep_acq-statique_run-OG2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0015/ses-01/eeg/Baseline_statique_OG2.vmrk'"
+  },
+  "sub-0016_ses-01_task-rest_acq-EC_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0016/ses-01/eeg/Baseline_restingstate_EC.vmrk'"
+  },
+  "sub-0016_ses-01_task-rest_acq-EC_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0016/ses-01/eeg/sub-0016_ses-01_task-rest_acq-EC_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 17.291390538817392,
+    "signal_quality": {
+      "rms": 4.365986575191086e-05,
+      "rms_per_channel_mean": 3.975946933510406e-05,
+      "rms_per_channel_std": 1.8037973158473168e-05,
+      "mean": 2.370176712688706e-05,
+      "std": 3.6666198501313095e-05,
+      "kurtosis": 3.6558699874032285
+    },
+    "psd": {
+      "delta": 0.03251533528066709,
+      "theta": 0.031796427841350616,
+      "alpha": 0.03015497757883862,
+      "beta": 0.005328318211783698,
+      "gamma": 0.0007452276823628198
+    },
+    "snr": 115.39995992932492
+  },
+  "sub-0016_ses-01_task-rest_acq-EO_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0016/ses-01/eeg/Baseline_restingstate_EO.vmrk'"
+  },
+  "sub-0016_ses-01_task-rest_acq-EO_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0016/ses-01/eeg/sub-0016_ses-01_task-rest_acq-EO_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 3690.357691898278,
+    "signal_quality": {
+      "rms": 4.08331099758349e-05,
+      "rms_per_channel_mean": 3.704736481917407e-05,
+      "rms_per_channel_std": 1.7170778382288065e-05,
+      "mean": 2.3864019799129008e-05,
+      "std": 3.3133841149577064e-05,
+      "kurtosis": 3.4755977505162727
+    },
+    "psd": {
+      "delta": 0.03396219247245129,
+      "theta": 0.020250275786506993,
+      "alpha": 0.020285743718361282,
+      "beta": 0.006881170396142728,
+      "gamma": 0.002298567810106885
+    },
+    "snr": 102.90860757725821
+  },
+  "sub-0016_ses-01_task-vep_acq-statique_run-OD1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0016/ses-01/eeg/Baseline_statique_OD1.vmrk'"
+  },
+  "sub-0016_ses-01_task-vep_acq-statique_run-OD2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0016/ses-01/eeg/Baseline_statique_OD2.vmrk'"
+  },
+  "sub-0016_ses-01_task-vep_acq-statique_run-OG1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0016/ses-01/eeg/Baseline_statique_OG1.vmrk'"
+  },
+  "sub-0016_ses-01_task-vep_acq-statique_run-OG2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0016/ses-01/eeg/Baseline_statique_OG2.vmrk'"
+  },
+  "sub-0018_ses-01_task-rest_acq-EC_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0018/ses-01/eeg/Baseline_restingstate_EC.vmrk'"
+  },
+  "sub-0018_ses-01_task-rest_acq-EC_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0018/ses-01/eeg/sub-0018_ses-01_task-rest_acq-EC_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 9.36957116810425,
+    "signal_quality": {
+      "rms": 3.27714352332563e-05,
+      "rms_per_channel_mean": 3.0903363308927375e-05,
+      "rms_per_channel_std": 1.090637902532063e-05,
+      "mean": 1.3434115547827802e-05,
+      "std": 2.9891328285894615e-05,
+      "kurtosis": 0.3861354987065493
+    },
+    "psd": {
+      "delta": 0.03911020105469028,
+      "theta": 0.010140714102307179,
+      "alpha": 0.008222839330828464,
+      "beta": 0.0035282356223015304,
+      "gamma": 0.0007561401092497182
+    },
+    "snr": 540.976899733569
+  },
+  "sub-0018_ses-01_task-rest_acq-EO_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0018/ses-01/eeg/Baseline_restingstate_EO.vmrk'"
+  },
+  "sub-0018_ses-01_task-rest_acq-EO_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0018/ses-01/eeg/sub-0018_ses-01_task-rest_acq-EO_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.45822256272533024,
+    "signal_quality": {
+      "rms": 3.09592683655485e-05,
+      "rms_per_channel_mean": 2.8944184814424956e-05,
+      "rms_per_channel_std": 1.0986831352053425e-05,
+      "mean": 1.1306894986420058e-05,
+      "std": 2.8820659664485846e-05,
+      "kurtosis": 2.57663325615599
+    },
+    "psd": {
+      "delta": 0.08127786187463285,
+      "theta": 0.010877079170538545,
+      "alpha": 0.006256490725047834,
+      "beta": 0.003184883841529275,
+      "gamma": 0.0010206632804241947
+    },
+    "snr": 450.6972682352538
+  },
+  "sub-0018_ses-01_task-vep_acq-statique_run-OD1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0018/ses-01/eeg/Baseline_statique_OD1.vmrk'"
+  },
+  "sub-0018_ses-01_task-vep_acq-statique_run-OD2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0018/ses-01/eeg/Baseline_statique_OD2.vmrk'"
+  },
+  "sub-0018_ses-01_task-vep_acq-statique_run-OG1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0018/ses-01/eeg/Baseline_statique_OG1-af.vmrk'"
+  },
+  "sub-0018_ses-01_task-vep_acq-statique_run-OG2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0018/ses-01/eeg/Baseline_statique_OG2.vmrk'"
+  },
+  "sub-0019_ses-01_task-rest_acq-EC_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0019/ses-01/eeg/Baseline_restingstate_EC.vmrk'"
+  },
+  "sub-0019_ses-01_task-rest_acq-EC_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0019/ses-01/eeg/sub-0019_ses-01_task-rest_acq-EC_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 596.0582164094104,
+    "signal_quality": {
+      "rms": 4.208453308260653e-05,
+      "rms_per_channel_mean": 3.8522550781877695e-05,
+      "rms_per_channel_std": 1.6944645350040763e-05,
+      "mean": 1.0443295022673957e-05,
+      "std": 4.076819242804858e-05,
+      "kurtosis": 20.439707935178212
+    },
+    "psd": {
+      "delta": 0.02574051109508282,
+      "theta": 0.015993485510227248,
+      "alpha": 0.036893081143712696,
+      "beta": 0.009481031755276806,
+      "gamma": 0.0025033829079606808
+    },
+    "snr": 55.32319786435437
+  },
+  "sub-0019_ses-01_task-rest_acq-EO_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0019/ses-01/eeg/Baseline_restingstate_EO.vmrk'"
+  },
+  "sub-0019_ses-01_task-rest_acq-EO_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0019/ses-01/eeg/sub-0019_ses-01_task-rest_acq-EO_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 75.23505320930049,
+    "signal_quality": {
+      "rms": 3.5622232192932916e-05,
+      "rms_per_channel_mean": 3.2918144867400145e-05,
+      "rms_per_channel_std": 1.3613932749065704e-05,
+      "mean": 1.3812525873479119e-05,
+      "std": 3.283530958285145e-05,
+      "kurtosis": 3.5164932657499666
+    },
+    "psd": {
+      "delta": 0.01812895859465644,
+      "theta": 0.008085630961879132,
+      "alpha": 0.018699450927539194,
+      "beta": 0.007672363682180807,
+      "gamma": 0.002064166766179986
+    },
+    "snr": 369.7922213037354
+  },
+  "sub-0019_ses-01_task-vep_acq-statique_run-OD1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0019/ses-01/eeg/Baseline_statique_OD1.vmrk'"
+  },
+  "sub-0019_ses-01_task-vep_acq-statique_run-OD2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0019/ses-01/eeg/Baseline_statique_OD2.vmrk'"
+  },
+  "sub-0019_ses-01_task-vep_acq-statique_run-OG1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0019/ses-01/eeg/Baseline_statique_OG1.vmrk'"
+  },
+  "sub-0019_ses-01_task-vep_acq-statique_run-OG2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0019/ses-01/eeg/Baseline_statique_OG2.vmrk'"
+  },
+  "sub-0020_ses-01_task-rest_acq-EC_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0020/ses-01/eeg/Baseline_restingstate_EC.vmrk'"
+  },
+  "sub-0020_ses-01_task-rest_acq-EC_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0020/ses-01/eeg/sub-0020_ses-01_task-rest_acq-EC_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.22791482327009935,
+    "signal_quality": {
+      "rms": 0.00016009962675816528,
+      "rms_per_channel_mean": 0.00011134936105973908,
+      "rms_per_channel_std": 0.00011503569132965513,
+      "mean": 2.2229783237638568e-05,
+      "std": 0.00015854881653708879,
+      "kurtosis": 298.6658388294668
+    },
+    "psd": {
+      "delta": 0.14879071980883707,
+      "theta": 0.019774564624376795,
+      "alpha": 0.01985540564903062,
+      "beta": 0.0066734861952599195,
+      "gamma": 0.00297922290683834
+    },
+    "snr": 120.58469175875545
+  },
+  "sub-0020_ses-01_task-rest_acq-EO_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0020/ses-01/eeg/Baseline_restingstate_EO.vmrk'"
+  },
+  "sub-0020_ses-01_task-rest_acq-EO_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0020/ses-01/eeg/sub-0020_ses-01_task-rest_acq-EO_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 6.977346981723027,
+    "signal_quality": {
+      "rms": 3.841329935300184e-05,
+      "rms_per_channel_mean": 3.726135304241883e-05,
+      "rms_per_channel_std": 9.336655537801362e-06,
+      "mean": 9.619158101694035e-06,
+      "std": 3.718942544054621e-05,
+      "kurtosis": 3.603253120708775
+    },
+    "psd": {
+      "delta": 0.011779506251409513,
+      "theta": 0.004640883477932122,
+      "alpha": 0.0060964837960325435,
+      "beta": 0.0035305986446862096,
+      "gamma": 0.0007367809179299565
+    },
+    "snr": 95.25708298131637
+  },
+  "sub-0020_ses-01_task-vep_acq-statique_run-OD1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0020/ses-01/eeg/Baseline_statique_OD1.vmrk'"
+  },
+  "sub-0020_ses-01_task-vep_acq-statique_run-OD2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0020/ses-01/eeg/Baseline_statique_OD2.vmrk'"
+  },
+  "sub-0020_ses-01_task-vep_acq-statique_run-OG1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0020/ses-01/eeg/Baseline_statique_OG1.vmrk'"
+  },
+  "sub-0020_ses-01_task-vep_acq-statique_run-OG2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0020/ses-01/eeg/Baseline_statique_OG2.vmrk'"
+  },
+  "sub-0021_ses-01_task-rest_acq-EO_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0021/ses-01/eeg/Baseline_restingstate_EO.vmrk'"
+  },
+  "sub-0021_ses-01_task-rest_acq-EO_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0021/ses-01/eeg/sub-0021_ses-01_task-rest_acq-EO_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.9982927635780449,
+    "signal_quality": {
+      "rms": 3.270731424125467e-05,
+      "rms_per_channel_mean": 2.857236702557244e-05,
+      "rms_per_channel_std": 1.5918173495478728e-05,
+      "mean": -3.6214967010786305e-07,
+      "std": 3.270530924013136e-05,
+      "kurtosis": 8.862070146660114
+    },
+    "psd": {
+      "delta": 0.013213783751873962,
+      "theta": 0.006501033552318411,
+      "alpha": 0.005178619528193368,
+      "beta": 0.00228877161166781,
+      "gamma": 0.0012519408973719623
+    },
+    "snr": 71.29849404253314
+  },
+  "sub-0021_ses-01_task-vep_acq-statique_run-OD1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0021/ses-01/eeg/Baseline_statique_OD1.vmrk'"
+  },
+  "sub-0021_ses-01_task-vep_acq-statique_run-OD2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0021/ses-01/eeg/Baseline_statique_OD2.vmrk'"
+  },
+  "sub-0021_ses-01_task-vep_acq-statique_run-OG1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0021/ses-01/eeg/Baseline_statique_OG1.vmrk'"
+  },
+  "sub-0021_ses-01_task-vep_acq-statique_run-OG2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0021/ses-01/eeg/Baseline_statique_OG2.vmrk'"
+  },
+  "sub-0023_ses-01_task-rest_acq-EC_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0023/ses-01/eeg/Baseline_restingstate_EC.vmrk'"
+  },
+  "sub-0023_ses-01_task-rest_acq-EC_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0023/ses-01/eeg/sub-0023_ses-01_task-rest_acq-EC_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 234.3849130486969,
+    "signal_quality": {
+      "rms": 3.6629071332763783e-05,
+      "rms_per_channel_mean": 3.451057374332779e-05,
+      "rms_per_channel_std": 1.22763661808791e-05,
+      "mean": 1.2976335204351563e-05,
+      "std": 3.425351940115065e-05,
+      "kurtosis": 2.457165011984764
+    },
+    "psd": {
+      "delta": 0.020805944858023857,
+      "theta": 0.012358995418708373,
+      "alpha": 0.008126981833669562,
+      "beta": 0.0021982100284041843,
+      "gamma": 0.0007368120279710069
+    },
+    "snr": 158.6210371202761
+  },
+  "sub-0023_ses-01_task-rest_acq-EO_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0023/ses-01/eeg/Baseline_restingstate_EO.vmrk'"
+  },
+  "sub-0023_ses-01_task-rest_acq-EO_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0023/ses-01/eeg/sub-0023_ses-01_task-rest_acq-EO_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 161.78484146318885,
+    "signal_quality": {
+      "rms": 5.041494594946346e-05,
+      "rms_per_channel_mean": 4.467906353952764e-05,
+      "rms_per_channel_std": 2.3354829400322633e-05,
+      "mean": 1.2812938453080979e-05,
+      "std": 4.8759567094928984e-05,
+      "kurtosis": 72.62052605060441
+    },
+    "psd": {
+      "delta": 0.1158698682323598,
+      "theta": 0.02289670218960748,
+      "alpha": 0.007661158115994112,
+      "beta": 0.003095362156983033,
+      "gamma": 0.002412488041738267
+    },
+    "snr": 77.6377068433873
+  },
+  "sub-0023_ses-01_task-vep_acq-statique_run-OD1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0023/ses-01/eeg/Baseline_statique_OD1.vmrk'"
+  },
+  "sub-0023_ses-01_task-vep_acq-statique_run-OD2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0023/ses-01/eeg/Baseline_statique_OD2.vmrk'"
+  },
+  "sub-0023_ses-01_task-vep_acq-statique_run-OG1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0023/ses-01/eeg/Baseline_statique_OG1.vmrk'"
+  },
+  "sub-0023_ses-01_task-vep_acq-statique_run-OG2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0023/ses-01/eeg/Baseline_statique_OG2.vmrk'"
+  },
+  "sub-0024_ses-01_task-rest_acq-EC_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0024/ses-01/eeg/Baseline_restingstate_EC.vmrk'"
+  },
+  "sub-0024_ses-01_task-rest_acq-EC_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0024/ses-01/eeg/sub-0024_ses-01_task-rest_acq-EC_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 368.54481084671846,
+    "signal_quality": {
+      "rms": 3.213799747938517e-05,
+      "rms_per_channel_mean": 2.9718121230107905e-05,
+      "rms_per_channel_std": 1.2234547500319626e-05,
+      "mean": 1.2614744479002104e-05,
+      "std": 2.9558739887120583e-05,
+      "kurtosis": 1.5815225417199805
+    },
+    "psd": {
+      "delta": 0.01274829793069693,
+      "theta": 0.004948646269599225,
+      "alpha": 0.008194024958373878,
+      "beta": 0.0018146441277894342,
+      "gamma": 0.0015437271745438212
+    },
+    "snr": 46.02785145668917
+  },
+  "sub-0024_ses-01_task-rest_acq-EO_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0024/ses-01/eeg/Baseline_restingstate_EO.vmrk'"
+  },
+  "sub-0024_ses-01_task-rest_acq-EO_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0024/ses-01/eeg/sub-0024_ses-01_task-rest_acq-EO_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 115.11745727427281,
+    "signal_quality": {
+      "rms": 3.280197976606846e-05,
+      "rms_per_channel_mean": 3.095284203746387e-05,
+      "rms_per_channel_std": 1.0857782756040679e-05,
+      "mean": 1.1480903943798767e-05,
+      "std": 3.072716585054389e-05,
+      "kurtosis": 27.187697791310654
+    },
+    "psd": {
+      "delta": 0.02545513161966586,
+      "theta": 0.005926246479918664,
+      "alpha": 0.002369135866723358,
+      "beta": 0.0016745965527093965,
+      "gamma": 0.001990735943129861
+    },
+    "snr": 19.335974494664878
+  },
+  "sub-0024_ses-01_task-vep_acq-statique_run-OD1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0024/ses-01/eeg/Baseline_statique_OD1.vmrk'"
+  },
+  "sub-0024_ses-01_task-vep_acq-statique_run-OD2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0024/ses-01/eeg/Baseline_statique_OD2.vmrk'"
+  },
+  "sub-0024_ses-01_task-vep_acq-statique_run-OG1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0024/ses-01/eeg/Baseline_statique_OG1.vmrk'"
+  },
+  "sub-0024_ses-01_task-vep_acq-statique_run-OG2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0024/ses-01/eeg/Baseline_statique_OG2.vmrk'"
+  },
+  "sub-0025_ses-01_task-rest_acq-EC_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0025/ses-01/eeg/Baseline_restingstate_EC.vmrk'"
+  },
+  "sub-0025_ses-01_task-rest_acq-EC_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0025/ses-01/eeg/sub-0025_ses-01_task-rest_acq-EC_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 421.3718916323503,
+    "signal_quality": {
+      "rms": 0.0001769543828334148,
+      "rms_per_channel_mean": 6.674589352313745e-05,
+      "rms_per_channel_std": 0.00016388361511070204,
+      "mean": 8.40973574011216e-06,
+      "std": 0.00017675443402850237,
+      "kurtosis": 153.76827294645
+    },
+    "psd": {
+      "delta": 1.0332828578105953,
+      "theta": 0.11654801199733694,
+      "alpha": 0.12563512698796744,
+      "beta": 0.018155414988639578,
+      "gamma": 0.014715933168517518
+    },
+    "snr": 11.952385186823216
+  },
+  "sub-0025_ses-01_task-rest_acq-EO_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0025/ses-01/eeg/Baseline_restingstate_EO.vmrk'"
+  },
+  "sub-0025_ses-01_task-rest_acq-EO_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0025/ses-01/eeg/sub-0025_ses-01_task-rest_acq-EO_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 691.7661754554298,
+    "signal_quality": {
+      "rms": 0.00016168737350880753,
+      "rms_per_channel_mean": 5.820429053641683e-05,
+      "rms_per_channel_std": 0.00015084782834144154,
+      "mean": 6.449314766577001e-06,
+      "std": 0.00016155869859347795,
+      "kurtosis": 170.63287303054346
+    },
+    "psd": {
+      "delta": 0.5760681702798778,
+      "theta": 0.07176914345922003,
+      "alpha": 0.05538099387112113,
+      "beta": 0.01319135951438056,
+      "gamma": 0.008351027822457838
+    },
+    "snr": 12.505805978688917
+  },
+  "sub-0025_ses-01_task-vep_acq-statique_run-OD1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0025/ses-01/eeg/Baseline_statique_OD1.vmrk'"
+  },
+  "sub-0025_ses-01_task-vep_acq-statique_run-OD2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0025/ses-01/eeg/Baseline_statique_OD2.vmrk'"
+  },
+  "sub-0025_ses-01_task-vep_acq-statique_run-OG1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0025/ses-01/eeg/Baseline_statique_OG1.vmrk'"
+  },
+  "sub-0025_ses-01_task-vep_acq-statique_run-OG2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0025/ses-01/eeg/Baseline_statique_OG2.vmrk'"
+  },
+  "sub-0026_ses-01_task-rest_acq-EC_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0026/ses-01/eeg/Baseline_restingstate_EC.vmrk'"
+  },
+  "sub-0026_ses-01_task-rest_acq-EC_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0026/ses-01/eeg/sub-0026_ses-01_task-rest_acq-EC_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 92.7803226655841,
+    "signal_quality": {
+      "rms": 4.0670577941481776e-05,
+      "rms_per_channel_mean": 3.602539890658896e-05,
+      "rms_per_channel_std": 1.887502433681298e-05,
+      "mean": 1.4549553746978902e-05,
+      "std": 3.797902573602851e-05,
+      "kurtosis": 12.2139233940592
+    },
+    "psd": {
+      "delta": 0.007795393045530293,
+      "theta": 0.003604698409498426,
+      "alpha": 0.0032759246030443405,
+      "beta": 0.0022165653142905773,
+      "gamma": 0.000427408143828647
+    },
+    "snr": 122.13806812282148
+  },
+  "sub-0026_ses-01_task-rest_acq-EO_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0026/ses-01/eeg/Baseline_restingstate_EO.vmrk'"
+  },
+  "sub-0026_ses-01_task-rest_acq-EO_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0026/ses-01/eeg/sub-0026_ses-01_task-rest_acq-EO_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 247.0323562161996,
+    "signal_quality": {
+      "rms": 4.038737527577628e-05,
+      "rms_per_channel_mean": 3.591048602656004e-05,
+      "rms_per_channel_std": 1.848180388930206e-05,
+      "mean": 1.7543967561947705e-05,
+      "std": 3.637786804984195e-05,
+      "kurtosis": 24.65494744957466
+    },
+    "psd": {
+      "delta": 0.012897922634349333,
+      "theta": 0.0036018163406472776,
+      "alpha": 0.002032964109320173,
+      "beta": 0.002195258671090658,
+      "gamma": 0.0005944709000890369
+    },
+    "snr": 116.00624552074851
+  },
+  "sub-0026_ses-01_task-vep_acq-statique_run-OD1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0026/ses-01/eeg/Baseline_statique_OD1.vmrk'"
+  },
+  "sub-0026_ses-01_task-vep_acq-statique_run-OD2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0026/ses-01/eeg/Baseline_statique_OD2.vmrk'"
+  },
+  "sub-0026_ses-01_task-vep_acq-statique_run-OG1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0026/ses-01/eeg/Baseline_statique_OG1.vmrk'"
+  },
+  "sub-0026_ses-01_task-vep_acq-statique_run-OG2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0026/ses-01/eeg/Baseline_statique_OG2.vmrk'"
+  },
+  "sub-0027_ses-01_task-rest_acq-EC_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0027/ses-01/eeg/sub-0027_ses-01_task-rest_acq-EC_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 393.7576172406567,
+    "signal_quality": {
+      "rms": 4.118741720675283e-05,
+      "rms_per_channel_mean": 3.7875814646488464e-05,
+      "rms_per_channel_std": 1.6181038317362998e-05,
+      "mean": 1.9916700815431614e-05,
+      "std": 3.6051745655262034e-05,
+      "kurtosis": 27.739137571393627
+    },
+    "psd": {
+      "delta": 0.03859579622252639,
+      "theta": 0.011743787655042952,
+      "alpha": 0.015032780467665676,
+      "beta": 0.0028976982596231665,
+      "gamma": 0.0016119401698684954
+    },
+    "snr": 140.5945917124153
+  },
+  "sub-0027_ses-01_task-rest_acq-EO_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0027/ses-01/eeg/sub-0027_ses-01_task-rest_acq-EO_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 73.90264294223924,
+    "signal_quality": {
+      "rms": 3.813952051223886e-05,
+      "rms_per_channel_mean": 3.488103354460146e-05,
+      "rms_per_channel_std": 1.5425191206720168e-05,
+      "mean": 1.7671959929632525e-05,
+      "std": 3.3798296660467246e-05,
+      "kurtosis": 10.813440139526168
+    },
+    "psd": {
+      "delta": 0.05019726630907635,
+      "theta": 0.01034632924809544,
+      "alpha": 0.008404412951969791,
+      "beta": 0.0026073795166540147,
+      "gamma": 0.0013854042169188085
+    },
+    "snr": 110.27762140370346
+  },
+  "sub-0028_ses-01_task-rest_acq-EC_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0028/ses-01/eeg/Baseline_restingstate_EC.vmrk'"
+  },
+  "sub-0028_ses-01_task-rest_acq-EC_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0028/ses-01/eeg/sub-0028_ses-01_task-rest_acq-EC_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 1264.4039157817485,
+    "signal_quality": {
+      "rms": 0.00013751819577891838,
+      "rms_per_channel_mean": 6.712344552831797e-05,
+      "rms_per_channel_std": 0.00012002373611371984,
+      "mean": 1.8651398572699664e-05,
+      "std": 0.00013624749356069352,
+      "kurtosis": 229.5198728117765
+    },
+    "psd": {
+      "delta": 0.0615295552377997,
+      "theta": 0.028253413246250136,
+      "alpha": 0.06203985367284636,
+      "beta": 0.01429836722467254,
+      "gamma": 0.009333125617608332
+    },
+    "snr": 6.215085085483904
+  },
+  "sub-0028_ses-01_task-rest_acq-EO_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0028/ses-01/eeg/Baseline_restingstate_EO.vmrk'"
+  },
+  "sub-0028_ses-01_task-rest_acq-EO_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0028/ses-01/eeg/sub-0028_ses-01_task-rest_acq-EO_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 12567.226887889332,
+    "signal_quality": {
+      "rms": 9.685469551074668e-05,
+      "rms_per_channel_mean": 4.625624207686072e-05,
+      "rms_per_channel_std": 8.509519440841719e-05,
+      "mean": 1.4265057879458343e-05,
+      "std": 9.579843509251682e-05,
+      "kurtosis": 85.98052581230255
+    },
+    "psd": {
+      "delta": 0.08829391675827912,
+      "theta": 0.017470649116329316,
+      "alpha": 0.023547521234881272,
+      "beta": 0.008456822241381199,
+      "gamma": 0.007570993935892954
+    },
+    "snr": 4.431563803674898
+  },
+  "sub-0028_ses-01_task-vep_acq-statique_run-OD1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0028/ses-01/eeg/Baseline_statique_OD1.vmrk'"
+  },
+  "sub-0028_ses-01_task-vep_acq-statique_run-OD2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0028/ses-01/eeg/Baseline_statique_OD2.vmrk'"
+  },
+  "sub-0028_ses-01_task-vep_acq-statique_run-OG1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0028/ses-01/eeg/Baseline_statique_OG1.vmrk'"
+  },
+  "sub-0028_ses-01_task-vep_acq-statique_run-OG2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0028/ses-01/eeg/Baseline_statique_OG2.vmrk'"
+  },
+  "sub-0029_ses-01_task-rest_acq-EC_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0029/ses-01/eeg/Baseline_restingstate_EC.vmrk'"
+  },
+  "sub-0029_ses-01_task-rest_acq-EC_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0029/ses-01/eeg/sub-0029_ses-01_task-rest_acq-EC_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 18.545968876231207,
+    "signal_quality": {
+      "rms": 5.3880375730797494e-05,
+      "rms_per_channel_mean": 4.006870394169117e-05,
+      "rms_per_channel_std": 3.6022130049804295e-05,
+      "mean": 1.3406610152667952e-05,
+      "std": 5.2185799726614246e-05,
+      "kurtosis": 872.7450766939859
+    },
+    "psd": {
+      "delta": 0.051901105882319214,
+      "theta": 0.014136327982641231,
+      "alpha": 0.012486594432334325,
+      "beta": 0.010287940287271811,
+      "gamma": 0.0017720743683812283
+    },
+    "snr": 116.56416924437251
+  },
+  "sub-0029_ses-01_task-rest_acq-EO_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0029/ses-01/eeg/Baseline_restingstate_EO.vmrk'"
+  },
+  "sub-0029_ses-01_task-rest_acq-EO_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0029/ses-01/eeg/sub-0029_ses-01_task-rest_acq-EO_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 7.8897504903459845,
+    "signal_quality": {
+      "rms": 4.434953840978084e-05,
+      "rms_per_channel_mean": 3.986106665692963e-05,
+      "rms_per_channel_std": 1.9441628587452216e-05,
+      "mean": 4.752848088891107e-06,
+      "std": 4.409412650461e-05,
+      "kurtosis": 6.681378378749596
+    },
+    "psd": {
+      "delta": 0.14868832100370358,
+      "theta": 0.028587004066440835,
+      "alpha": 0.011688642265634415,
+      "beta": 0.009181320897801855,
+      "gamma": 0.0016304495998878132
+    },
+    "snr": 239.51438337948142
+  },
+  "sub-0029_ses-01_task-vep_acq-statique_run-OD1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0029/ses-01/eeg/Baseline_statique_OD1.vmrk'"
+  },
+  "sub-0029_ses-01_task-vep_acq-statique_run-OD2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0029/ses-01/eeg/Baseline_statique_OD2.vmrk'"
+  },
+  "sub-0029_ses-01_task-vep_acq-statique_run-OG1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0029/ses-01/eeg/Baseline_statique_OG1.vmrk'"
+  },
+  "sub-0029_ses-01_task-vep_acq-statique_run-OG2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0029/ses-01/eeg/Baseline_statique_OG2.vmrk'"
+  },
+  "sub-0030_ses-01_task-rest_acq-EC_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0030/ses-01/eeg/Baseline_restingstate_EC.vmrk'"
+  },
+  "sub-0030_ses-01_task-rest_acq-EC_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0030/ses-01/eeg/sub-0030_ses-01_task-rest_acq-EC_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 3.9896921698538543,
+    "signal_quality": {
+      "rms": 4.1956267983312186e-05,
+      "rms_per_channel_mean": 3.871802785773885e-05,
+      "rms_per_channel_std": 1.6163005348476054e-05,
+      "mean": 1.8182046485214617e-05,
+      "std": 3.7811924160203775e-05,
+      "kurtosis": 2.008495652023325
+    },
+    "psd": {
+      "delta": 0.017520814095785295,
+      "theta": 0.00559165443900935,
+      "alpha": 0.005402335645620556,
+      "beta": 0.0009091347180401626,
+      "gamma": 0.0003670457559537362
+    },
+    "snr": 167.7324904788672
+  },
+  "sub-0030_ses-01_task-rest_acq-EO_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0030/ses-01/eeg/Baseline_restingstate_EO.vmrk'"
+  },
+  "sub-0030_ses-01_task-rest_acq-EO_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0030/ses-01/eeg/sub-0030_ses-01_task-rest_acq-EO_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 5.739618876097875,
+    "signal_quality": {
+      "rms": 3.4939615027310715e-05,
+      "rms_per_channel_mean": 3.362407264965271e-05,
+      "rms_per_channel_std": 9.497285754759265e-06,
+      "mean": 6.0664437576619955e-06,
+      "std": 3.440893718776854e-05,
+      "kurtosis": 28.341446865592403
+    },
+    "psd": {
+      "delta": 0.034234028968689954,
+      "theta": 0.005280797718460024,
+      "alpha": 0.002320388638446095,
+      "beta": 0.0010860295911084906,
+      "gamma": 0.000559108438793342
+    },
+    "snr": 152.52954894169687
+  },
+  "sub-0030_ses-01_task-vep_acq-statique_run-OD1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0030/ses-01/eeg/Baseline_statique_OD1.vmrk'"
+  },
+  "sub-0030_ses-01_task-vep_acq-statique_run-OD2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0030/ses-01/eeg/Baseline_statique_OD2.vmrk'"
+  },
+  "sub-0030_ses-01_task-vep_acq-statique_run-OG1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0030/ses-01/eeg/Baseline_statique_OG1.vmrk'"
+  },
+  "sub-0030_ses-01_task-vep_acq-statique_run-OG2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0030/ses-01/eeg/Baseline_statique_OG2.vmrk'"
+  },
+  "sub-0031_ses-01_task-rest_acq-EC_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0031/ses-01/eeg/sub-0031_ses-01_task-rest_acq-EC_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.21480861938231066,
+    "signal_quality": {
+      "rms": 3.716117650399292e-05,
+      "rms_per_channel_mean": 3.4470863100459694e-05,
+      "rms_per_channel_std": 1.3882097689840728e-05,
+      "mean": 1.6228280998331345e-05,
+      "std": 3.343046417566039e-05,
+      "kurtosis": 6.668957139509571
+    },
+    "psd": {
+      "delta": 0.009793512957276146,
+      "theta": 0.006051766530313124,
+      "alpha": 0.0050792085627277,
+      "beta": 0.0009128616004749647,
+      "gamma": 0.0004723921066193667
+    },
+    "snr": 143.08060937763923
+  },
+  "sub-0031_ses-01_task-rest_acq-EO_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0031/ses-01/eeg/sub-0031_ses-01_task-rest_acq-EO_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.23124948318269076,
+    "signal_quality": {
+      "rms": 5.074715977468045e-05,
+      "rms_per_channel_mean": 4.72426023484347e-05,
+      "rms_per_channel_std": 1.8531345027941648e-05,
+      "mean": 3.104094430976292e-05,
+      "std": 4.014640708152029e-05,
+      "kurtosis": 5.991227059865853
+    },
+    "psd": {
+      "delta": 0.017467537129467147,
+      "theta": 0.0030516175542064433,
+      "alpha": 0.0019671925178442375,
+      "beta": 0.0011610000364262163,
+      "gamma": 0.0008696070599918625
+    },
+    "snr": 87.53888057059984
+  },
+  "sub-0032_ses-01_task-rest_acq-EC_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0032/ses-01/eeg/Baseline_restingstate_EC.vmrk'"
+  },
+  "sub-0032_ses-01_task-rest_acq-EC_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0032/ses-01/eeg/sub-0032_ses-01_task-rest_acq-EC_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 1.8090747532973988,
+    "signal_quality": {
+      "rms": 9.049197406534065e-05,
+      "rms_per_channel_mean": 7.822771293995942e-05,
+      "rms_per_channel_std": 4.548870517420329e-05,
+      "mean": -1.4543388173655167e-05,
+      "std": 8.931566061264213e-05,
+      "kurtosis": 8.278832672143686
+    },
+    "psd": {
+      "delta": 0.03021553216278446,
+      "theta": 0.01920640682714637,
+      "alpha": 0.022315899023920695,
+      "beta": 0.00405159556663517,
+      "gamma": 0.0019714979883507264
+    },
+    "snr": 239.33084592340555
+  },
+  "sub-0032_ses-01_task-rest_acq-EO_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0032/ses-01/eeg/Baseline_restingstate_EO.vmrk'"
+  },
+  "sub-0032_ses-01_task-rest_acq-EO_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0032/ses-01/eeg/sub-0032_ses-01_task-rest_acq-EO_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 2.2731922617626834,
+    "signal_quality": {
+      "rms": 3.560077500996637e-05,
+      "rms_per_channel_mean": 3.4013987864699684e-05,
+      "rms_per_channel_std": 1.0510176537542495e-05,
+      "mean": 4.524051524049216e-06,
+      "std": 3.5312152853061714e-05,
+      "kurtosis": 0.6701300009393614
+    },
+    "psd": {
+      "delta": 0.020173955080355684,
+      "theta": 0.008914306346194693,
+      "alpha": 0.01207547513780709,
+      "beta": 0.0037579383036966145,
+      "gamma": 0.0021918071882184643
+    },
+    "snr": 110.20977102062551
+  },
+  "sub-0032_ses-01_task-vep_acq-statique_run-OD1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0032/ses-01/eeg/Baseline_statique_OD1.vmrk'"
+  },
+  "sub-0032_ses-01_task-vep_acq-statique_run-OD2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0032/ses-01/eeg/Baseline_statique_OD2.vmrk'"
+  },
+  "sub-0032_ses-01_task-vep_acq-statique_run-OG1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0032/ses-01/eeg/Baseline_statique_OG1.vmrk'"
+  },
+  "sub-0032_ses-01_task-vep_acq-statique_run-OG2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0032/ses-01/eeg/Baseline_statique_OG2.vmrk'"
+  },
+  "sub-0033_ses-01_task-rest_acq-EC_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0033/ses-01/eeg/Baseline_restingstate_EC.vmrk'"
+  },
+  "sub-0033_ses-01_task-rest_acq-EC_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0033/ses-01/eeg/sub-0033_ses-01_task-rest_acq-EC_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 3.4031140783820333,
+    "signal_quality": {
+      "rms": 4.0158584783633536e-05,
+      "rms_per_channel_mean": 3.805767745923604e-05,
+      "rms_per_channel_std": 1.2818935924367507e-05,
+      "mean": 1.4473350232285236e-05,
+      "std": 3.7459765947986e-05,
+      "kurtosis": 2.2866777953159607
+    },
+    "psd": {
+      "delta": 0.024363297318150273,
+      "theta": 0.022625148895722327,
+      "alpha": 0.03231066495694712,
+      "beta": 0.00885295443291815,
+      "gamma": 0.0009869880493278615
+    },
+    "snr": 1194.9709770319223
+  },
+  "sub-0033_ses-01_task-rest_acq-EO_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0033/ses-01/eeg/Baseline_restingstate_EO.vmrk'"
+  },
+  "sub-0033_ses-01_task-rest_acq-EO_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0033/ses-01/eeg/sub-0033_ses-01_task-rest_acq-EO_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 13.941953284460816,
+    "signal_quality": {
+      "rms": 3.3577973606721984e-05,
+      "rms_per_channel_mean": 3.19175628232037e-05,
+      "rms_per_channel_std": 1.0428302592491429e-05,
+      "mean": 1.3456691388159612e-05,
+      "std": 3.076357860226195e-05,
+      "kurtosis": 0.503696481493423
+    },
+    "psd": {
+      "delta": 0.04154191495348197,
+      "theta": 0.0172664274027783,
+      "alpha": 0.008799939928924815,
+      "beta": 0.00682507610555758,
+      "gamma": 0.0017042174968011014
+    },
+    "snr": 302.46392744308855
+  },
+  "sub-0033_ses-01_task-vep_acq-statique_run-OD1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0033/ses-01/eeg/Baseline_statique_OD1.vmrk'"
+  },
+  "sub-0033_ses-01_task-vep_acq-statique_run-OD2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0033/ses-01/eeg/Baseline_statique_OD2.vmrk'"
+  },
+  "sub-0033_ses-01_task-vep_acq-statique_run-OG1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0033/ses-01/eeg/Baseline_statique_OG1.vmrk'"
+  },
+  "sub-0033_ses-01_task-vep_acq-statique_run-OG2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0033/ses-01/eeg/Baseline_statique_OG2.vmrk'"
+  },
+  "sub-0034_ses-01_task-rest_acq-EC_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0034/ses-01/eeg/Baseline_restingstate_EC.vmrk'"
+  },
+  "sub-0034_ses-01_task-rest_acq-EC_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0034/ses-01/eeg/sub-0034_ses-01_task-rest_acq-EC_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 504.2826531033543,
+    "signal_quality": {
+      "rms": 4.3305313960012935e-05,
+      "rms_per_channel_mean": 4.00696369935538e-05,
+      "rms_per_channel_std": 1.6424810756295356e-05,
+      "mean": 1.533595957929092e-05,
+      "std": 4.0498871107200585e-05,
+      "kurtosis": 17.4530970983541
+    },
+    "psd": {
+      "delta": 0.03160768852954564,
+      "theta": 0.01974340292430516,
+      "alpha": 0.03843309708391763,
+      "beta": 0.010277168862291903,
+      "gamma": 0.001095279015406201
+    },
+    "snr": 370.32347215212786
+  },
+  "sub-0034_ses-01_task-rest_acq-EO_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0034/ses-01/eeg/Baseline_restingstate_EO.vmrk'"
+  },
+  "sub-0034_ses-01_task-rest_acq-EO_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0034/ses-01/eeg/sub-0034_ses-01_task-rest_acq-EO_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 13.49344382565063,
+    "signal_quality": {
+      "rms": 3.4209393618677824e-05,
+      "rms_per_channel_mean": 3.1857930306487705e-05,
+      "rms_per_channel_std": 1.2464144107984605e-05,
+      "mean": 8.903066868301661e-06,
+      "std": 3.303056178898846e-05,
+      "kurtosis": 3.644032068979172
+    },
+    "psd": {
+      "delta": 0.043554232760462136,
+      "theta": 0.023014481697009644,
+      "alpha": 0.0198755979581538,
+      "beta": 0.012778674501112364,
+      "gamma": 0.001457809283024216
+    },
+    "snr": 363.63340267764414
+  },
+  "sub-0034_ses-01_task-vep_acq-statique_run-OD1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0034/ses-01/eeg/Baseline_statique_OD1.vmrk'"
+  },
+  "sub-0034_ses-01_task-vep_acq-statique_run-OD2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0034/ses-01/eeg/Baseline_statique_OD2bis.vmrk'"
+  },
+  "sub-0034_ses-01_task-vep_acq-statique_run-OG1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0034/ses-01/eeg/Baseline_statique_OG1.vmrk'"
+  },
+  "sub-0034_ses-01_task-vep_acq-statique_run-OG2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0034/ses-01/eeg/Baseline_statique_OG2.vmrk'"
+  },
+  "sub-0035_ses-01_task-rest_acq-EC_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0035/ses-01/eeg/Baseline_restingstate_EC.vmrk'"
+  },
+  "sub-0035_ses-01_task-rest_acq-EC_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0035/ses-01/eeg/sub-0035_ses-01_task-rest_acq-EC_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 33.88099982708333,
+    "signal_quality": {
+      "rms": 3.492432653194823e-05,
+      "rms_per_channel_mean": 3.0122078989266422e-05,
+      "rms_per_channel_std": 1.767396223472647e-05,
+      "mean": 1.1921913997019362e-05,
+      "std": 3.282646113058514e-05,
+      "kurtosis": 392.10142580285986
+    },
+    "psd": {
+      "delta": 0.036370478391688534,
+      "theta": 0.008743124874321238,
+      "alpha": 0.0106414777941542,
+      "beta": 0.0016201473997676224,
+      "gamma": 0.0008543540745462837
+    },
+    "snr": 101.23933512589417
+  },
+  "sub-0035_ses-01_task-rest_acq-EO_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0035/ses-01/eeg/Baseline_restingstate_EO.vmrk'"
+  },
+  "sub-0035_ses-01_task-rest_acq-EO_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0035/ses-01/eeg/sub-0035_ses-01_task-rest_acq-EO_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 240.84435162068831,
+    "signal_quality": {
+      "rms": 3.049065933192729e-05,
+      "rms_per_channel_mean": 2.7204480743998185e-05,
+      "rms_per_channel_std": 1.3769405722291599e-05,
+      "mean": 1.0876107122014545e-05,
+      "std": 2.8484918823231872e-05,
+      "kurtosis": 2.027967779589093
+    },
+    "psd": {
+      "delta": 0.03792814886265603,
+      "theta": 0.005522176561613312,
+      "alpha": 0.0029021854966931825,
+      "beta": 0.0011449470248712048,
+      "gamma": 0.0004924581293263311
+    },
+    "snr": 113.69139984711633
+  },
+  "sub-0035_ses-01_task-vep_acq-statique_run-OD1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0035/ses-01/eeg/Baseline_statique_OD1.vmrk'"
+  },
+  "sub-0035_ses-01_task-vep_acq-statique_run-OD2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0035/ses-01/eeg/Baseline_statique_OD2.vmrk'"
+  },
+  "sub-0035_ses-01_task-vep_acq-statique_run-OG1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0035/ses-01/eeg/Baseline_statique_OG1.vmrk'"
+  },
+  "sub-0035_ses-01_task-vep_acq-statique_run-OG2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0035/ses-01/eeg/Baseline_statique_OG2.vmrk'"
+  },
+  "sub-0036_ses-01_task-rest_acq-EC_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0036/ses-01/eeg/Baseline_restingstate_EC.vmrk'"
+  },
+  "sub-0036_ses-01_task-rest_acq-EC_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0036/ses-01/eeg/sub-0036_ses-01_task-rest_acq-EC_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 237.71840113388856,
+    "signal_quality": {
+      "rms": 0.00011284345132022469,
+      "rms_per_channel_mean": 6.384736435337387e-05,
+      "rms_per_channel_std": 9.304385294573437e-05,
+      "mean": 1.8858884926263812e-05,
+      "std": 0.0001112564019065773,
+      "kurtosis": 285.8505438068004
+    },
+    "psd": {
+      "delta": 0.6169845100193294,
+      "theta": 0.057636087334066305,
+      "alpha": 0.02137994865697662,
+      "beta": 0.007949282112985692,
+      "gamma": 0.003275568191693009
+    },
+    "snr": 228.52461228121226
+  },
+  "sub-0036_ses-01_task-rest_acq-EO_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0036/ses-01/eeg/Baseline_restingstate_EO.vmrk'"
+  },
+  "sub-0036_ses-01_task-rest_acq-EO_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0036/ses-01/eeg/sub-0036_ses-01_task-rest_acq-EO_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 176.66780898494605,
+    "signal_quality": {
+      "rms": 7.863483165589603e-05,
+      "rms_per_channel_mean": 4.962492426247737e-05,
+      "rms_per_channel_std": 6.099839048281924e-05,
+      "mean": 1.3738999598299848e-05,
+      "std": 7.742529715531626e-05,
+      "kurtosis": 411.8420031394921
+    },
+    "psd": {
+      "delta": 0.48140603970717116,
+      "theta": 0.05420870939410866,
+      "alpha": 0.02097807340681385,
+      "beta": 0.008241338171243567,
+      "gamma": 0.0031871977838785065
+    },
+    "snr": 162.3807483419938
+  },
+  "sub-0036_ses-01_task-vep_acq-statique_run-OD1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0036/ses-01/eeg/Baseline_statique_OD1.vmrk'"
+  },
+  "sub-0036_ses-01_task-vep_acq-statique_run-OD2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0036/ses-01/eeg/Baseline_statique_OD2.vmrk'"
+  },
+  "sub-0036_ses-01_task-vep_acq-statique_run-OG1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0036/ses-01/eeg/Baseline_statique_OG1.vmrk'"
+  },
+  "sub-0036_ses-01_task-vep_acq-statique_run-OG2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0036/ses-01/eeg/Baseline_statique_OG2.vmrk'"
+  },
+  "sub-0037_ses-01_task-rest_acq-EC_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0037/ses-01/eeg/Baseline_restingstate_EC.vmrk'"
+  },
+  "sub-0037_ses-01_task-rest_acq-EC_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0037/ses-01/eeg/sub-0037_ses-01_task-rest_acq-EC_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.4382964086101225,
+    "signal_quality": {
+      "rms": 3.742356429755744e-05,
+      "rms_per_channel_mean": 3.347896952609535e-05,
+      "rms_per_channel_std": 1.672368871404257e-05,
+      "mean": 2.2805988497097845e-05,
+      "std": 2.967170459214733e-05,
+      "kurtosis": 1.2158594310717303
+    },
+    "psd": {
+      "delta": 0.008034801243117914,
+      "theta": 0.004585166930302482,
+      "alpha": 0.01106404715379056,
+      "beta": 0.004456816742652753,
+      "gamma": 0.0009352713077440295
+    },
+    "snr": 196.96676958466398
+  },
+  "sub-0037_ses-01_task-rest_acq-EO_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0037/ses-01/eeg/Baseline_restingstate_EO.vmrk'"
+  },
+  "sub-0037_ses-01_task-rest_acq-EO_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0037/ses-01/eeg/sub-0037_ses-01_task-rest_acq-EO_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.6334566822608603,
+    "signal_quality": {
+      "rms": 4.262361702421364e-05,
+      "rms_per_channel_mean": 3.889068933258337e-05,
+      "rms_per_channel_std": 1.744382445059916e-05,
+      "mean": 3.0512039878623544e-05,
+      "std": 2.976219331084524e-05,
+      "kurtosis": 1.4007903606353684
+    },
+    "psd": {
+      "delta": 0.017693110590986175,
+      "theta": 0.004340056639675279,
+      "alpha": 0.005581294975779873,
+      "beta": 0.004403298541530483,
+      "gamma": 0.0014560644841157052
+    },
+    "snr": 123.52897009705045
+  },
+  "sub-0037_ses-01_task-vep_acq-statique_run-OD1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0037/ses-01/eeg/Baseline_statique_OD1.vmrk'"
+  },
+  "sub-0037_ses-01_task-vep_acq-statique_run-OD2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0037/ses-01/eeg/Baseline_statique_OD2.vmrk'"
+  },
+  "sub-0037_ses-01_task-vep_acq-statique_run-OG1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0037/ses-01/eeg/Baseline_statique_OG1.vmrk'"
+  },
+  "sub-0037_ses-01_task-vep_acq-statique_run-OG2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0037/ses-01/eeg/Baseline_statique_OG2.vmrk'"
+  },
+  "sub-0038_ses-01_task-rest_acq-EC_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0038/ses-01/eeg/Baseline_restingstate_EC.vmrk'"
+  },
+  "sub-0038_ses-01_task-rest_acq-EC_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0038/ses-01/eeg/sub-0038_ses-01_task-rest_acq-EC_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 159.8994821110917,
+    "signal_quality": {
+      "rms": 0.0003671695300256796,
+      "rms_per_channel_mean": 0.00011645393887870185,
+      "rms_per_channel_std": 0.0003482124981945852,
+      "mean": -1.1219174384625967e-05,
+      "std": 0.0003669980843347902,
+      "kurtosis": 51.47701193640427
+    },
+    "psd": {
+      "delta": 0.37356397726239493,
+      "theta": 0.02251696560235745,
+      "alpha": 0.004752051793764228,
+      "beta": 0.0011742752868432605,
+      "gamma": 0.0007798481385587608
+    },
+    "snr": 607.4311356999248
+  },
+  "sub-0038_ses-01_task-rest_acq-EO_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0038/ses-01/eeg/Baseline_restingstate_EO.vmrk'"
+  },
+  "sub-0038_ses-01_task-rest_acq-EO_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0038/ses-01/eeg/sub-0038_ses-01_task-rest_acq-EO_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 153723.9478217194,
+    "signal_quality": {
+      "rms": 0.0004198785373589948,
+      "rms_per_channel_mean": 0.00012227665890880506,
+      "rms_per_channel_std": 0.000401679480208821,
+      "mean": 1.1989683244059491e-05,
+      "std": 0.00041970731900984996,
+      "kurtosis": 48.95236709691256
+    },
+    "psd": {
+      "delta": 0.3946813494099289,
+      "theta": 0.08335642444015574,
+      "alpha": 0.039186776439495606,
+      "beta": 0.010994134028824943,
+      "gamma": 0.010267119130270676
+    },
+    "snr": 1.6280803866485736
+  },
+  "sub-0038_ses-01_task-vep_acq-statique_run-OD1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0038/ses-01/eeg/Baseline_statique_OD1.vmrk'"
+  },
+  "sub-0038_ses-01_task-vep_acq-statique_run-OD2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0038/ses-01/eeg/Baseline_statique_OD2.vmrk'"
+  },
+  "sub-0038_ses-01_task-vep_acq-statique_run-OG1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0038/ses-01/eeg/Baseline_statique_OG1.vmrk'"
+  },
+  "sub-0038_ses-01_task-vep_acq-statique_run-OG2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0038/ses-01/eeg/Baseline_statique_OG2.vmrk'"
+  },
+  "sub-0039_ses-01_task-rest_acq-EC_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0039/ses-01/eeg/Baseline_restingstate_EC WCA.vmrk'"
+  },
+  "sub-0039_ses-01_task-rest_acq-EC_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0039/ses-01/eeg/sub-0039_ses-01_task-rest_acq-EC_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 3.2093308832515004,
+    "signal_quality": {
+      "rms": 3.8621097413579836e-05,
+      "rms_per_channel_mean": 3.5564214033691995e-05,
+      "rms_per_channel_std": 1.5059078510817611e-05,
+      "mean": 1.614251965492743e-05,
+      "std": 3.508572679337717e-05,
+      "kurtosis": 7.663701256417269
+    },
+    "psd": {
+      "delta": 0.026592965214601753,
+      "theta": 0.03127218849801405,
+      "alpha": 0.11369109170515512,
+      "beta": 0.00933656774434816,
+      "gamma": 0.0008326397082928342
+    },
+    "snr": 1742.2228710599313
+  },
+  "sub-0039_ses-01_task-rest_acq-EO_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0039/ses-01/eeg/Baseline_restingstate_EO.vmrk'"
+  },
+  "sub-0039_ses-01_task-rest_acq-EO_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0039/ses-01/eeg/sub-0039_ses-01_task-rest_acq-EO_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.5927585590874431,
+    "signal_quality": {
+      "rms": 3.789061302389513e-05,
+      "rms_per_channel_mean": 3.5095777505097944e-05,
+      "rms_per_channel_std": 1.4282330224414806e-05,
+      "mean": 2.3602814158983218e-05,
+      "std": 2.9641284032630447e-05,
+      "kurtosis": 2.071324358739604
+    },
+    "psd": {
+      "delta": 0.091894659359571,
+      "theta": 0.02213508697013891,
+      "alpha": 0.014200217822758555,
+      "beta": 0.008981588058313696,
+      "gamma": 0.0019033702346390113
+    },
+    "snr": 306.1452732557517
+  },
+  "sub-0039_ses-01_task-vep_acq-statique_run-OD1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0039/ses-01/eeg/Baseline_statique_OD1.vmrk'"
+  },
+  "sub-0039_ses-01_task-vep_acq-statique_run-OD2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0039/ses-01/eeg/Baseline_statique_OD2.vmrk'"
+  },
+  "sub-0039_ses-01_task-vep_acq-statique_run-OG1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0039/ses-01/eeg/Baseline_statique_OG1.vmrk'"
+  },
+  "sub-0039_ses-01_task-vep_acq-statique_run-OG2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0039/ses-01/eeg/Baseline_statique_OG2.vmrk'"
+  },
+  "sub-0040_ses-01_task-rest_acq-EC_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0040/ses-01/eeg/Baseline_restingstate_EC.vmrk'"
+  },
+  "sub-0040_ses-01_task-rest_acq-EC_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0040/ses-01/eeg/sub-0040_ses-01_task-rest_acq-EC_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 283.211369224912,
+    "signal_quality": {
+      "rms": 7.074013577972738e-05,
+      "rms_per_channel_mean": 4.4895434056838835e-05,
+      "rms_per_channel_std": 5.466778586134892e-05,
+      "mean": 9.405854757867808e-06,
+      "std": 7.01120296839862e-05,
+      "kurtosis": 555.4341589565496
+    },
+    "psd": {
+      "delta": 0.10168418463519867,
+      "theta": 0.015889353511430407,
+      "alpha": 0.012012867262076898,
+      "beta": 0.003682709262741948,
+      "gamma": 0.0007482655657370677
+    },
+    "snr": 466.5375519791919
+  },
+  "sub-0040_ses-01_task-rest_acq-EO_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0040/ses-01/eeg/Baseline_restingstate_EO.vmrk'"
+  },
+  "sub-0040_ses-01_task-rest_acq-EO_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0040/ses-01/eeg/sub-0040_ses-01_task-rest_acq-EO_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 79.58020671807546,
+    "signal_quality": {
+      "rms": 3.3308366238658514e-05,
+      "rms_per_channel_mean": 3.022170851243105e-05,
+      "rms_per_channel_std": 1.4003413729453925e-05,
+      "mean": 1.8574076388028256e-05,
+      "std": 2.764870607859068e-05,
+      "kurtosis": 1.5662800161566066
+    },
+    "psd": {
+      "delta": 0.040238064723537165,
+      "theta": 0.011547821806631128,
+      "alpha": 0.009112782568094792,
+      "beta": 0.003220080332624225,
+      "gamma": 0.0010432073979082016
+    },
+    "snr": 221.5748829838075
+  },
+  "sub-0040_ses-01_task-vep_acq-statique_run-OD1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0040/ses-01/eeg/Baseline_statique_OD1.vmrk'"
+  },
+  "sub-0040_ses-01_task-vep_acq-statique_run-OD2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0040/ses-01/eeg/Baseline_statique_OD2.vmrk'"
+  },
+  "sub-0040_ses-01_task-vep_acq-statique_run-OG1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0040/ses-01/eeg/Baseline_statique_OG1.vmrk'"
+  },
+  "sub-0040_ses-01_task-vep_acq-statique_run-OG2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0040/ses-01/eeg/Baseline_statique_OG2.vmrk'"
+  },
+  "sub-0041_ses-01_task-rest_acq-EC_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0041/ses-01/eeg/Baseline_restingstate_EC.vmrk'"
+  },
+  "sub-0041_ses-01_task-rest_acq-EC_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0041/ses-01/eeg/sub-0041_ses-01_task-rest_acq-EC_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 478.4765367288941,
+    "signal_quality": {
+      "rms": 3.3920499192719185e-05,
+      "rms_per_channel_mean": 3.0389011586054758e-05,
+      "rms_per_channel_std": 1.507011082593265e-05,
+      "mean": 1.8095302518249856e-05,
+      "std": 2.869077015794946e-05,
+      "kurtosis": 2.861629997850872
+    },
+    "psd": {
+      "delta": 0.022010289227996586,
+      "theta": 0.007511759850865094,
+      "alpha": 0.007792745665619355,
+      "beta": 0.002327832107049975,
+      "gamma": 0.0016207640443819653
+    },
+    "snr": 57.455577037309446
+  },
+  "sub-0041_ses-01_task-rest_acq-EO_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0041/ses-01/eeg/Baseline_restingstate_EO.vmrk'"
+  },
+  "sub-0041_ses-01_task-rest_acq-EO_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0041/ses-01/eeg/sub-0041_ses-01_task-rest_acq-EO_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 596.1936650324594,
+    "signal_quality": {
+      "rms": 3.205602158110926e-05,
+      "rms_per_channel_mean": 2.9175115849604755e-05,
+      "rms_per_channel_std": 1.3281608892400185e-05,
+      "mean": 1.800307281955543e-05,
+      "std": 2.6523157592231118e-05,
+      "kurtosis": 1.0206711875732069
+    },
+    "psd": {
+      "delta": 0.017293556197676523,
+      "theta": 0.004654227974260596,
+      "alpha": 0.0029390593416950663,
+      "beta": 0.0011697718153026717,
+      "gamma": 0.000691490669251159
+    },
+    "snr": 81.54943059664578
+  },
+  "sub-0041_ses-01_task-vep_acq-statique_run-OD1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0041/ses-01/eeg/Baseline_statique_OD1.vmrk'"
+  },
+  "sub-0041_ses-01_task-vep_acq-statique_run-OD2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0041/ses-01/eeg/Baseline_statique_OD2.vmrk'"
+  },
+  "sub-0041_ses-01_task-vep_acq-statique_run-OG1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0041/ses-01/eeg/Baseline_statique_OG1.vmrk'"
+  },
+  "sub-0041_ses-01_task-vep_acq-statique_run-OG2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0041/ses-01/eeg/Baseline_statique_OG2.vmrk'"
+  },
+  "sub-0042_ses-01_task-rest_acq-EC_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0042/ses-01/eeg/Baseline_restingstate_EC.vmrk'"
+  },
+  "sub-0042_ses-01_task-rest_acq-EC_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0042/ses-01/eeg/sub-0042_ses-01_task-rest_acq-EC_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.20413359032596629,
+    "signal_quality": {
+      "rms": 0.0004454211838636094,
+      "rms_per_channel_mean": 0.0003792110208939711,
+      "rms_per_channel_std": 0.00023366435900027955,
+      "mean": -7.828685606517804e-05,
+      "std": 0.0004384873991369529,
+      "kurtosis": 14.206098560480285
+    },
+    "psd": {
+      "delta": 0.048211337313073845,
+      "theta": 0.008081386980630881,
+      "alpha": 0.03646529902590862,
+      "beta": 0.005364180794032311,
+      "gamma": 0.0012028261355718443
+    },
+    "snr": 273.03796150744364
+  },
+  "sub-0042_ses-01_task-rest_acq-EO_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0042/ses-01/eeg/Baseline_restingstate_EO.vmrk'"
+  },
+  "sub-0042_ses-01_task-rest_acq-EO_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0042/ses-01/eeg/sub-0042_ses-01_task-rest_acq-EO_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 23.256449903859565,
+    "signal_quality": {
+      "rms": 2.8980271373987403e-05,
+      "rms_per_channel_mean": 2.6813910355390615e-05,
+      "rms_per_channel_std": 1.0994104800438722e-05,
+      "mean": 1.0883744863661675e-05,
+      "std": 2.6858894739967832e-05,
+      "kurtosis": 0.015534065266319175
+    },
+    "psd": {
+      "delta": 0.014431166655744265,
+      "theta": 0.005076106332700592,
+      "alpha": 0.004270457965313303,
+      "beta": 0.002922057793935277,
+      "gamma": 0.0013377895446456587
+    },
+    "snr": 90.93608620072999
+  },
+  "sub-0042_ses-01_task-vep_acq-statique_run-OD1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0042/ses-01/eeg/Baseline_statique_OD1.vmrk'"
+  },
+  "sub-0042_ses-01_task-vep_acq-statique_run-OD2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0042/ses-01/eeg/Baseline_statique_OD2.vmrk'"
+  },
+  "sub-0042_ses-01_task-vep_acq-statique_run-OG1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0042/ses-01/eeg/Baseline_statique_OG1.vmrk'"
+  },
+  "sub-0042_ses-01_task-vep_acq-statique_run-OG3_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0042/ses-01/eeg/Baseline_statique_OG3.vmrk'"
+  },
+  "sub-0043_ses-01_task-rest_acq-EC_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0043/ses-01/eeg/Baseline_restingstate_EC.vmrk'"
+  },
+  "sub-0043_ses-01_task-rest_acq-EC_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0043/ses-01/eeg/sub-0043_ses-01_task-rest_acq-EC_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 9.119257339403458,
+    "signal_quality": {
+      "rms": 8.507911085865902e-05,
+      "rms_per_channel_mean": 8.21844942736772e-05,
+      "rms_per_channel_std": 2.2003727081563043e-05,
+      "mean": 2.6513843044279916e-05,
+      "std": 8.084226142014635e-05,
+      "kurtosis": 0.720157350500858
+    },
+    "psd": {
+      "delta": 0.013264310810756364,
+      "theta": 0.007061070040085867,
+      "alpha": 0.01690866516713545,
+      "beta": 0.001397286549597516,
+      "gamma": 0.0005452298619774475
+    },
+    "snr": 98.15007689739066
+  },
+  "sub-0043_ses-01_task-rest_acq-EO_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0043/ses-01/eeg/Baseline_restingstate_EO.vmrk'"
+  },
+  "sub-0043_ses-01_task-rest_acq-EO_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0043/ses-01/eeg/sub-0043_ses-01_task-rest_acq-EO_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 56.85039226305862,
+    "signal_quality": {
+      "rms": 9.188231517647135e-05,
+      "rms_per_channel_mean": 8.781005609722249e-05,
+      "rms_per_channel_std": 2.7050949898128485e-05,
+      "mean": 8.290489434582127e-06,
+      "std": 9.150752770741595e-05,
+      "kurtosis": 4.796056069980867
+    },
+    "psd": {
+      "delta": 0.11089204458985696,
+      "theta": 0.01887552712020779,
+      "alpha": 0.01408628781262697,
+      "beta": 0.0012932195135102814,
+      "gamma": 0.0003689224055801714
+    },
+    "snr": 270.58231460556016
+  },
+  "sub-0043_ses-01_task-vep_acq-cinetique_run-1_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0043/ses-01/eeg/sub-0043_ses-01_task-vep_acq-cinetique_run-1_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 2.7238932703339716,
+    "signal_quality": {
+      "rms": 0.00010607387415431047,
+      "rms_per_channel_mean": 9.49077357124964e-05,
+      "rms_per_channel_std": 4.737286649582683e-05,
+      "mean": 2.9468447139950794e-05,
+      "std": 0.00010189836800098628,
+      "kurtosis": 41.35906303053331
+    },
+    "psd": {
+      "delta": 0.07883998519093748,
+      "theta": 0.023169337924366366,
+      "alpha": 0.005848681058189785,
+      "beta": 0.0010698469527008997,
+      "gamma": 0.0012128359203464887
+    },
+    "snr": 202.99719601465253
+  },
+  "sub-0043_ses-01_task-vep_acq-cinetique_run-2_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0043/ses-01/eeg/sub-0043_ses-01_task-vep_acq-cinetique_run-2_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 8.779799287454223,
+    "signal_quality": {
+      "rms": 8.798860398847963e-05,
+      "rms_per_channel_mean": 7.380170007103277e-05,
+      "rms_per_channel_std": 4.790932579849997e-05,
+      "mean": 3.601200513578368e-05,
+      "std": 8.028156648908754e-05,
+      "kurtosis": 127.12727276083388
+    },
+    "psd": {
+      "delta": 0.1026218327379882,
+      "theta": 0.02383417625367141,
+      "alpha": 0.0060835190120304295,
+      "beta": 0.0006502470886713708,
+      "gamma": 0.00019584514168377319
+    },
+    "snr": 347.1328052032503
+  },
+  "sub-0043_ses-01_task-vep_acq-cinetique_run-3_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0043/ses-01/eeg/sub-0043_ses-01_task-vep_acq-cinetique_run-3_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 49.258181436812485,
+    "signal_quality": {
+      "rms": 6.534073756262959e-05,
+      "rms_per_channel_mean": 5.7793894834106234e-05,
+      "rms_per_channel_std": 3.048405657278409e-05,
+      "mean": 2.178818300481571e-05,
+      "std": 6.16010313759201e-05,
+      "kurtosis": 7.034376771776035
+    },
+    "psd": {
+      "delta": 0.07470121050135328,
+      "theta": 0.018394736496372917,
+      "alpha": 0.003607147981747064,
+      "beta": 0.00041608442524295245,
+      "gamma": 0.00014226750624775946
+    },
+    "snr": 374.95109422172345
+  },
+  "sub-0043_ses-01_task-vep_acq-cinetique_run-4_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0043/ses-01/eeg/sub-0043_ses-01_task-vep_acq-cinetique_run-4_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 15.008229261080615,
+    "signal_quality": {
+      "rms": 0.00010501396885619748,
+      "rms_per_channel_mean": 0.00010178323714604184,
+      "rms_per_channel_std": 2.5847752146038227e-05,
+      "mean": 3.370711039712479e-05,
+      "std": 9.945734947004396e-05,
+      "kurtosis": 2.4428496491428895
+    },
+    "psd": {
+      "delta": 0.032645923604055424,
+      "theta": 0.007534337415337415,
+      "alpha": 0.0026451329717214673,
+      "beta": 0.0005661844368927189,
+      "gamma": 0.00038499038541768663
+    },
+    "snr": 145.05409958450213
+  },
+  "sub-0043_ses-01_task-vep_acq-cinetique_run-5_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0043/ses-01/eeg/sub-0043_ses-01_task-vep_acq-cinetique_run-5_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.23650063244453648,
+    "signal_quality": {
+      "rms": 0.00010951196176781932,
+      "rms_per_channel_mean": 0.00010615136296221765,
+      "rms_per_channel_std": 2.6921328189742986e-05,
+      "mean": 7.178374296226415e-05,
+      "std": 8.270407496951956e-05,
+      "kurtosis": 2.0207956537087552
+    },
+    "psd": {
+      "delta": 0.03304792799320355,
+      "theta": 0.005716055062362517,
+      "alpha": 0.0027112181417940327,
+      "beta": 0.0005109451702715505,
+      "gamma": 0.0002241596316057091
+    },
+    "snr": 145.17307272787707
+  },
+  "sub-0043_ses-01_task-vep_acq-cinetique_run-6_eeg.vhdr": {
+    "source_path": "/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0043/ses-01/eeg/sub-0043_ses-01_task-vep_acq-cinetique_run-6_eeg.vhdr",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 6.156153697507223,
+    "signal_quality": {
+      "rms": 0.00010076475549144164,
+      "rms_per_channel_mean": 9.695691358794722e-05,
+      "rms_per_channel_std": 2.7438893140018487e-05,
+      "mean": 7.369311976779712e-05,
+      "std": 6.87230678021516e-05,
+      "kurtosis": 0.8473056409104807
+    },
+    "psd": {
+      "delta": 0.014968295321533018,
+      "theta": 0.0032356397774248504,
+      "alpha": 0.0020901422476941422,
+      "beta": 0.0003430148712919454,
+      "gamma": 0.00015729321959823448
+    },
+    "snr": 88.98128876732358
+  },
+  "sub-0043_ses-01_task-vep_acq-statique_run-OD1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0043/ses-01/eeg/Baseline_statique_OD1.vmrk'"
+  },
+  "sub-0043_ses-01_task-vep_acq-statique_run-OD2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0043/ses-01/eeg/Baseline_statique_OD2.vmrk'"
+  },
+  "sub-0043_ses-01_task-vep_acq-statique_run-OG1_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0043/ses-01/eeg/Baseline_statique_OG1.vmrk'"
+  },
+  "sub-0043_ses-01_task-vep_acq-statique_run-OG2_eeg.vhdr": {
+    "error": "[Errno 2] No such file or directory: '/Volumes/levy/raw/valerocabre/hemianotACS/Data/derivatives/bids/sub-0043/ses-01/eeg/Baseline_statique_OG2.vmrk'"
+  }
+}

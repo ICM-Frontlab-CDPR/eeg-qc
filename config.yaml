@@ -1,4 +1,5 @@
-check-type: raw-qc  # metrics to extract — applies to all derivatives
+check-type: raw-qc          # metrics to extract — applies to all derivatives
+aggregation-type: mean      # how to aggregate per-file metrics into one row per derivative
 
 comparaison-type:  #extra-deriv
   intra-deriv: 

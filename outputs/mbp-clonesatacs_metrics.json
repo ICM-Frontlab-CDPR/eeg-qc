@@ -1,0 +1,146 @@
+{
+  "sub-01_ses-1_task-RSC_run-0_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/clonesa/Data/clonesatACS/derivatives/mne-bids-pipeline/sub-01/ses-1/eeg/sub-01_ses-1_task-RSC_run-0_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 2.9393085472891763e-05,
+    "signal_quality": {
+      "rms": 1.2667838517424823,
+      "rms_per_channel_mean": 0.260170045455406,
+      "rms_per_channel_std": 1.239779365243369,
+      "mean": -0.25944194549027644,
+      "std": 1.2399319352108564,
+      "kurtosis": 26.58076498446072
+    },
+    "psd": {
+      "delta": 167.8016345136052,
+      "theta": 183.7584941702168,
+      "alpha": 144.77364569669277,
+      "beta": 94.36963646831252,
+      "gamma": 43.68152645014223
+    },
+    "snr": 41.473858530232945
+  },
+  "sub-01_ses-1_task-RSC_run-4_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/clonesa/Data/clonesatACS/derivatives/mne-bids-pipeline/sub-01/ses-1/eeg/sub-01_ses-1_task-RSC_run-4_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 0.00011349083888251526,
+    "signal_quality": {
+      "rms": 1.26844194869939,
+      "rms_per_channel_mean": 0.2712441776382457,
+      "rms_per_channel_std": 1.2391011150498001,
+      "mean": -0.2695580001226803,
+      "std": 1.2394690241349988,
+      "kurtosis": 24.125624442944442
+    },
+    "psd": {
+      "delta": 115.7041727558255,
+      "theta": 137.69527160198032,
+      "alpha": 109.36836542639314,
+      "beta": 70.12089657898613,
+      "gamma": 30.33899930773158
+    },
+    "snr": 45.20929105825385
+  },
+  "sub-02_ses-1_task-RSC_run-0_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/clonesa/Data/clonesatACS/derivatives/mne-bids-pipeline/sub-02/ses-1/eeg/sub-02_ses-1_task-RSC_run-0_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 9.129609957860059e-05,
+    "signal_quality": {
+      "rms": 1.2699733869508203,
+      "rms_per_channel_mean": 0.28451007492104685,
+      "rms_per_channel_std": 1.2376939932114717,
+      "mean": -0.2843968489949812,
+      "std": 1.2377200151266297,
+      "kurtosis": 22.2394182850438
+    },
+    "psd": {
+      "delta": 126.91425401927053,
+      "theta": 128.24190554387235,
+      "alpha": 106.5674059361919,
+      "beta": 74.12342724211325,
+      "gamma": 34.14888876072677
+    },
+    "snr": 42.62031005725148
+  },
+  "sub-02_ses-1_task-RSC_run-4_proc-filt_raw.fif": {
+    "source_path": "/Volumes/levy/raw/valerocabre/clonesa/Data/clonesatACS/derivatives/mne-bids-pipeline/sub-02/ses-1/eeg/sub-02_ses-1_task-RSC_run-4_proc-filt_raw.fif",
+    "bad_channels": {
+      "bad_channels": [],
+      "n_bad": 0,
+      "rate": 0.0
+    },
+    "epoch_rejection": {
+      "n_total": null,
+      "n_rejected": null,
+      "rejection_rate": null
+    },
+    "ica_components": {
+      "n_components": null,
+      "excluded": null,
+      "n_excluded": null,
+      "exclusion_rate": null
+    },
+    "line_noise_50hz": 1.0634481779198687e-05,
+    "signal_quality": {
+      "rms": 1.3034939925519218,
+      "rms_per_channel_mean": 0.30426303941313854,
+      "rms_per_channel_std": 1.2674859334391166,
+      "mean": -0.3037771116479254,
+      "std": 1.267602483059178,
+      "kurtosis": 18.142082114989275
+    },
+    "psd": {
+      "delta": 184.42918350857045,
+      "theta": 131.8128199338855,
+      "alpha": 117.76660340780828,
+      "beta": 72.6237684013964,
+      "gamma": 29.119475331506557
+    },
+    "snr": 46.53897526878922
+  }
+}

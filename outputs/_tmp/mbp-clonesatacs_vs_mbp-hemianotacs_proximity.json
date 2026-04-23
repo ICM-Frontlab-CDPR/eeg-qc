@@ -1,0 +1,33 @@
+{
+  "derivative_a": "mbp-clonesatacs",
+  "derivative_b": "mbp-hemianotacs",
+  "global_proximity": 0.17306722226689264,
+  "n_files_a": 4.0,
+  "n_files_b": 70.0,
+  "scores": {
+    "Signal quality": {
+      "signal_quality.rms": 2.171518817073448e-05,
+      "signal_quality.rms_per_channel_mean": 7.537589059058991e-05,
+      "signal_quality.std": 2.225515350706697e-05,
+      "signal_quality.kurtosis": 0.24743003614737968,
+      "line_noise_50hz": 3.5061785443546434e-05,
+      "snr": 1.5510536022222965e-07
+    },
+    "Bad channels": {
+      "bad_channels.n_bad": 1.0,
+      "bad_channels.rate": 1.0
+    },
+    "PSD bands": {
+      "psd.delta": 0.0014231417242169808,
+      "psd.theta": 0.00026795350572439425,
+      "psd.alpha": 0.000328741273929567,
+      "psd.beta": 0.00013033913048488,
+      "psd.gamma": 0.00013911456479664963
+    },
+    "ICA": {
+      "ica_components.n_components": null,
+      "ica_components.n_excluded": null,
+      "ica_components.exclusion_rate": null
+    }
+  }
+}
